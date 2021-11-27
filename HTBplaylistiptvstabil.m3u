@@ -1,0 +1,2660 @@
+#EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="HTB-Lokal",NET tv
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="HTB-Lokal",INDOSIAR
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="HTB-Lokal",SCTV
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="HTB-Lokal",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="HTB-Lokal",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="HTB-Lokal",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/gtv.png" group-title="HTB-Lokal",GTV-->
+<!--https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd-->
+
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="HTB-Lokal",MNC TV-->
+<!--https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd-->
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/inews.png" group-title="HTB-Lokal",iNews
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="HTB-Lokal",TRANS 7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="HTB-Lokal",TRANS TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/rtv.png" group-title="HTB-Lokal",RTV
+https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="HTB-Lokal",ANTV
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="HTB-Lokal",TVOne
+https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/daaitv.png" group-title="HTB-Lokal",DAAI TV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/jtv.png" group-title="HTB-Lokal",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/jaktv.png" group-title="HTB-Lokal",JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/balitv.png" group-title="HTB-Lokal",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/tvri.png" group-title="HTB-Lokal",TVRI
+https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="HTB-Lokal",METRO TV
+https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="HTB-Lokal",KOMPAS TV
+https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bs.png" group-title="HTB-Lokal",Berita Satu
+https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bandungtv.png" group-title="HTB-Lokal",Bandung TV
+https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/idx.png" group-title="HTB-News",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.ibb.co/1MjwL56/vgj.png" group-title="HTB-News",DW TV
+https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/arirang.png" group-title="HTB-News",Arirang
+https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.ibb.co/W6SJcZT/xdghf.png" group-title="HTB-News",Bloomberg
+https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/euronews.png" group-title="HTB-News",EuroNews
+https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtn.png" group-title="HTB-News", CGTN
+https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/aljazeera.png" group-title="HTB-News",AL JAZEERA English
+https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:- tvg-id="" tvg-name="" tvg-logo=" " group-title="HTB-News",fox News
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/cnbcasia.png" group-title="HTB-News",CNBC Asia
+https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/france24.png" group-title="HTB-News",France 24
+https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bbcworldnews.png" group-title="HTB-News",BBC World
+https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/trt.png" group-title="HTB-News",TRT World
+https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/rt.png" group-title="HTB-News",RT English
+https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/abcaustralia.png" group-title="HTB-News",ABC Australia
+https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/cnninternational.png" group-title="HTB-News",CNN International
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/cna.png" group-title="HTB-News",Channel News Asia
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/fx.png" group-title="HTB-Movies",FX-->
+<!--https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd-->
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="HTB-Movies",HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="Movies",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="HTB-Movies",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115" group-title="HTB-Movies",HBO Family
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngkey.com/png/full/850-8506219_hbo-go-hbo-hits.png" group-title="HTB-Movies",HBO Hits
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="HTB-Movies",HBO Signature
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Hits.MACAN" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="HTB-Movies",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HITSMovies.MACAN" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="HTB-Movies",HITS Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="HTB-Movies",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="KIX.MACAN" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="HTB-Movies",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Thrill.MACAN" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="HTB-Movies",Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="HTB-Movies",Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="HTB-Movies",Cinema World
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="HTB-Movies",Celestial Movies
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/ccm.png" group-title="HTB-Movies",Celestial Classic Movies
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="HTB-Movies",Star Chinese Movies
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Zee.MACAN" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="HTB-Movies",ZEE Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.us" tvg-name="CNN Internatioal" tvg-logo="https://i.ibb.co/zx3WHbV/ASC.png" group-title="HTB-News",CNN International
+https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="ChannelNewsAsia.MACAN" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_newsasia_small.png?v=2.0.0.13" group-title="HTB-News",News Asia Channel
+https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+
+
+
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
+<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/fx.png" group-title="HTB-Movies",FX-->
+<!--https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd-->
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxIndonesia.us" tvg-name="FOX" tvg-logo="https://i.ibb.co/n0V45gH/zx.png" group-title="HTB-Movies",FOX HD
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxLifeIndonesia.us" tvg-name="FOX Life" tvg-logo="https://i.ibb.co/rZRwhqn/ngc.png" group-title="HTB-Movies",FOX Life
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxCrimeAsia.us" tvg-name="FOX Crime" tvg-logo="https://i.ibb.co/mS62DC1/RDFH.png" group-title="HTB-Movies",FOX Crime HD
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxMoviesIndonesia.us" tvg-name="FOX Movies Premium" tvg-logo="https://i.ibb.co/y4ZwgwB/ghfr.png" group-title="HTB-Movies",FOX Movies
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxActionMovies.us" tvg-name="FOX Action Movies" tvg-logo="https://i.ibb.co/ngDt2ys/ht.png" group-title="HTB-Movies",FOX Action Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="FoxFamilyMovies.us" tvg-name="FOX Family Movies" tvg-logo="https://i.ibb.co/HHzfKmP/ASDZXC.png" group-title="HTB-Movies",FOX Family Movies HD
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-name="HBO" tvg-logo="https://i.ibb.co/n600MdC/hbo.png" group-title="HTB-Movies",HBO HD
+https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-name="HBO Family" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png" group-title="HTB-Movies",HBO Family HD
+https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png" group-title="HTB-Movies",HBO Hits HD
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png" group-title="HTB-Movies",HBO Signature HD
+https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Hits.sg" tvg-name="HITS" tvg-logo="https://i.ibb.co/86t7VBg/sgtr.png" group-title="HTB-Movies",HITS
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="HitsMovies.sg" tvg-name="HITS Movies" tvg-logo="https://i.ibb.co/d7hB8xd/csw.png" group-title="HTB-Movies",HITS Movies
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="AXNEastAsia.us" tvg-name="AXN" tvg-logo="https://i.ibb.co/HCcdS4n/jngv.png" group-title="HTB-Movies",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Kix.hk" tvg-name="KIX" tvg-logo="https://i.ibb.co/8jRb2YX/xgf.png" group-title="HTB-Movies",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Thrill.hk" tvg-name="Thrill" tvg-logo="https://i.ibb.co/h1WPmPG/VZX.png" group-title="HTB-Movies",Thrill
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-name="Warner TV" tvg-logo="https://i.ibb.co/cJLLsn0/wstgf.png" group-title="HTB-Movies",Warner TV
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CinemaWorld.MACAN" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/YhQFDQJ/xrg.png" group-title="HTB-Movies",Cinema World
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-name="Celestial Movies" tvg-logo="https://i.ibb.co/LYHGVNp/jbv.png" group-title="HTB-Movies",Celestial Movies
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CelestialClassicMovies.hk" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_22.png" group-title="HTB-Movies",CCM
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="StarChineseMoviesSouthEastAsia.hk" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="HTB-Movies",Star Chinese Movies
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="StarChineseMoviesLegend.hk" tvg-name="SCM Legend" tvg-logo="https://i.ibb.co/bbcBvxY/zcv.png" group-title="HTB-Movies",Star Chinese Movies Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="HTB-Movies",ZEE Bioskop
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP
+
+
+
+
+//SPORTS
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk46HkJ0Dbo7k4SuxRllrtfRj9F7MxlS-4g&usqp=CAU" group-title="HTB-Sports",BEIN SPORTS 1 ID
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpWGXpTZgLtGsmHhKZFWzurOdVtMBVCMOxw&usqp=CAU" group-title="HTB-Sports",BEIN SPORTS 2 ID
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+
+
+
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVPsWX3ZUqdJr4fn28h0kwyRqJiN_uwcEbA&usqp=CAU" group-title="HTB-Sports" ,LookSport Plus
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVPsWX3ZUqdJr4fn28h0kwyRqJiN_uwcEbA&usqp=CAU" group-title="HTB-Sports" ,LookSport
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVPsWX3ZUqdJr4fn28h0kwyRqJiN_uwcEbA&usqp=CAU" group-title="HTB-Sports" ,LookSport 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+#EXTINF:-1 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVPsWX3ZUqdJr4fn28h0kwyRqJiN_uwcEbA&usqp=CAU" group-title="HTB-Sports" ,LookSport 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/28bRpyWG/download.jpg" group-title="HTB-Sports",Unifi Sports
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/mncsports.png" group-title="HTB-Sports",MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PQQfDt9/tsh.png" group-title="HTB-Sports",Fight Sports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/soccerchannel.png" group-title="HTB-Sports",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/hHCyN9t/ig.png" group-title="HTB-Kids",Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Boomerang.MACAN" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/YbKLSR1/gtfj.png" group-title="HTB-Kids",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://i.ibb.co/jDKvSs3/CVZXS.png" group-title="HTB-Kids",Animax
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Nickelodeon.MACAN" tvg-name="Nickelodeon" tvg-logo="https://i.ibb.co/JsWTZhx/fz.png" group-title="HTB-Kids",Nickelodeon
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/YZDxCg2/ddddddd.png" group-title="HTB-Kids",Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/kidstv.png" group-title="HTB-Kids",Kids tv
+https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/tlc.png" group-title="HTB-Lifestyle",TLC
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/fmn.png" group-title="HTB-Lifestyle",FMN
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/hgtv.png" group-title="HTB-Lifestyle",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/lifetime.png" group-title="HTB-Lifestyle",Lifetime
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/sonyone.png" group-title="HTB-Lifestyle",Sony One
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/oktv.png" group-title="HTB-Lifestyle",OKTV
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/visionprime.png" group-title="HTB-Lifestyle",Vision Prime
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/ie.png" group-title="HTB-Lifestyle",Infotainment
+https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/ent.png" group-title="HTB-Lifestyle",MNC Entertainment
+https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="HTB-Entertainment",tvN
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="TVNMovies.MACAN" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="HTB-Entertainment",tvN Movies
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-name="ZEE Cinema" tvg-logo="https://i.ibb.co/3mKqscL/RGTS.png" group-title="HTB-Movies",ZEE Cinema
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/anhuitv.png" group-title="HTB-Entertainment",Anhui TV
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/hunantv.png" group-title="HTB-Entertainment",Hunan TV
+https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/dragontv.png" group-title="HTB-Entertainment",Dragon TV
+https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/jiangsutv.png" group-title="HTB-Entertainment",Jiangsu TV
+https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/xingxong.png" group-title="HTB-Entertainment",Xingkong TV
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/nhkworld.png" group-title="HTB-Entertainment",NHK World TV
+https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/nhkpremium.png" group-title="HTB-Entertainment",NHK World Premium
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/history.png" group-title="HTB-Knowledge",History
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/cgtndoc.png" group-title="HTB-Knowledge",CGTN DOCUMENTARY
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/besmart.jpg" group-title="HTB-Knowledge",Besmart
+https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="HTB-Knowledge",Discovery
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/bbcearth.png" group-title="HTB-Knowledge",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/animalplanet.png" group-title="HTB-Knowledge",Animal Planet
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="HTB-Knowledge",Nat Geo Channel
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="HTB-Knowledge",Nat Geo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/crimeinvestigation.png" group-title="HTB-Knowledge",Crime Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="HTB-Religi",Al Quran Al Kareem
+https://cllive.itworkscdn.net/ksaquranlive/token=nva=1626667651~dirs=1~hash=0ebf1903916f9c911a7a3/ksaquran.smil/ksaquran_chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/madinah.png" group-title="HTB-Religi",AL Sunnah Nabawi
+https://cllive.itworkscdn.net/ksasunnalive/token=nva=1626667649~dirs=1~hash=0e85090d9fca5627eb6bc/ksasunna.smil/ksasunna_chunks.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/tawaf.png" group-title="HTB-Religi",Tawaf TV
+https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/mekkah.png" group-title="HTB-Religi",Al Quran Al Kareem 2
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/muslimtv.png" group-title="HTB-Religi",Muslim TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_da
+
+
+﻿#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T Bㅤjangan ㅤdicuri
+https://emoji.mrz.kn
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T Bㅤuntuk ㅤ tivimate ㅤjuga
+https://yt.by.mrzdox
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T Bㅤtidakㅤ untuk ㅤdiperjualbelikan
+https://bla.bla.bla
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T B    selalu    update
+https://com.web.browser
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T Bㅤuntukㅤottㅤnavigator
+https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Luar", H T Bㅤgratisㅤadaㅤdiㅤsini
+https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
+http://api.mbed.cc/yt.php?id=SwYO80ArYv4
+/ts
+
+
+#EXTINF:-1,AU: Bein Sports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ff_Oxyp_e2j0LERK-PElKs/ts
+#EXTINF:-1,AU: Bein Sports 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dE-IIFvK0x-SR1bT00_t73/ts
+#EXTINF:-1,AU: Bein Sports 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ed44Iep8_6wKqdq3VMoN87/ts
+#EXTINF:-1,AU: ESPN 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZDhXxqHSHiDXp_GOjeJXw/ts
+#EXTINF:-1,AU: ESPN 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cVwaBIXuxlXD4xLjKhTIC-/ts
+#EXTINF:-1,AU: Fox Sports 501 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgmlU3v7ZSwp2ps572GrUZ/ts
+#EXTINF:-1,AU: Fox Sports 502 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dsR-VfHA6bT4dxhXZodDPH/ts
+#EXTINF:-1,AU: Fox Sports 503 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e84osxcLV5sflQM1d2hs2w/ts
+#EXTINF:-1,AU: Fox Sports 504 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fPMwQ7eDVbasTEMo6CU7Px/ts
+#EXTINF:-1,AU: Fox Sports 505 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHoKuqGznMVwFb5CQE-MxF/ts
+#EXTINF:-1,AU: Fox Sports 506 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXMB8w-aKvUpxZRfowrAB1/ts
+#EXTINF:-1,AU: Fox Sports 507 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cOeDQPrsTaZi9BwtbVkEmb/ts
+#EXTINF:-1,AU: Racing.com HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsK6ILetvudo9kBH0UB370/ts
+#EXTINF:-1,AU: Sky Racing 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cGbcD90YijSbkRgDlaSlhh/ts
+#EXTINF:-1,AU: Sky Racing 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgf8J2qyNHQxuBVApGaKZD/ts
+#EXTINF:-1,AU: Sky News HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLnqQPHtJSy5IJ3hffzzvt/ts
+#EXTINF:-1,AU: Olympics Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e_1fVcuvN_MR5SdphRKV-a/ts
+#EXTINF:-1,AU: Optus 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7cu9-wN6334zgs3W_rD6H/ts
+#EXTINF:-1,AU: Optus 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dQVMoChXYPzdZtIYT-uxFS/ts
+#EXTINF:-1,AU: Optus 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dPq8SEPrZSmHUAIzkvMl6m/ts
+#EXTINF:-1,AU: Optus 4  HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQsGOz3UuixxJunwQO9PdP/ts
+#EXTINF:-1,AU: Optus 5  HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-zGJv8CfSghsxfAsKwB8O/ts
+#EXTINF:-1,AU: Optus 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-xY_wHyG2wWYYo7guv1c_/ts
+#EXTINF:-1,AU: Optus 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eI6yM4bTG5ND9XcdJkrCC4/ts
+#EXTINF:-1,AU: Optus 8 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fvPNtDaYOxWFHx7tLbYMPK/ts
+#EXTINF:-1,AU: Optus 9 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cs0tzOT4Y-XxOoISjtjG_-/ts
+#EXTINF:-1,AU: Optus 10 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07feRd2fjgQNDyQ48it_kA5v/ts
+#EXTINF:-1,AU: Optus 11 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cbvt7R5HQszHKKDxfL-Bo8/ts
+#EXTINF:-1,AU: Optus 12 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cO6RlIYB5Q0IxDQkDrg1BT/ts
+#EXTINF:-1,AU: Optus 13 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZv4QsWe-puq0XjoTTxTPi/ts
+#EXTINF:-1,AU: Stan Sport 1 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dpTdlf2YncU2FXoUDUqtcv/ts
+#EXTINF:-1,AU: Stan Sport 2 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07con-1KLQFuf4xN458CeX1f/ts
+#EXTINF:-1,AU: Stan Sport 3 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c-a9NuBMbGW-lt-eB-5ei8/ts
+#EXTINF:-1,AU: Stan Sport 4 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fKhBMeqjQfyLe2XfeCMDMD/ts
+#EXTINF:-1,AU: Stan Sport 5 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dr6IBjUoR0bjyqu5mL6QPh/ts
+#EXTINF:-1,AU: Stan Sport 6 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fRx8EbU975EimLSC4viqAE/ts
+#EXTINF:-1,AU: Stan Sport 7 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fGCOY37WYOZDH6W_z52PJV/ts
+#EXTINF:-1,AU: Stan Sport 8 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c5dIkK_fRPsndvCniiogkP/ts
+#EXTINF:-1,AU: Stan Sport 9 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fkormQ_xMavNLWRoAEoIkg/ts
+#EXTINF:-1,AU: Stan Sport 10 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eBgj6FLc5KWMfUNzLyoZsQ/ts
+#EXTINF:-1,AU: Stan Sport 11 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dhMx4zM4bv17qVDIPN5ylF/ts
+#EXTINF:-1,AU: Stan Sport 12 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ftO58X2W427u1aUcXfzFXS/ts
+#EXTINF:-1,AU: Stan Sport 13 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07diFAedzmaz4f1qndeeTtoQ/ts
+#EXTINF:-1,AU: Stan Sport 14 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07czYsF8HChOA3d8EPb0vtoY/ts
+#EXTINF:-1,AU: Stan Sport 15 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dfPqK5YKMIpeVDG70yFAd5/ts
+#EXTINF:-1,AU: Stan Sport 16 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c55ClPTEOA36yyKQsGG8nn/ts
+#EXTINF:-1,AU: Stan Sport 17 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e4utE4QBgmRqrcYwGo-qmX/ts
+#EXTINF:-1,AU: Stan Sport 18 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dAsGLPlWs8w6X48piBb11d/ts
+#EXTINF:-1,AU: Stan Sport 19 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c6cLwHeRJH3gC6lQsC11ey/ts
+#EXTINF:-1,AU: Stan Sport 20 (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fg3MWmqIp_PoJkR1OQmhxt/ts
+#EXTINF:-1,HR: Arena Sports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eFQHi-1dW6xpE1Ad5AcI54/ts
+#EXTINF:-1,HR: Arena Sports 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cef8SJr8ivCv__VVnUx8Pr/ts
+#EXTINF:-1,HR: Arena Sports 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f1bd5zqtyajbiWFr-89rj8/ts
+#EXTINF:-1,HR: Arena Sports 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fP3l3yNBzHGlIWZ1XRaViS/ts
+#EXTINF:-1,HR: Arena Sports 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fOGwtig0ghx-KqD3hJUjRv/ts
+#EXTINF:-1,HR: Arena Sports 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e2SFaoGNWbIreKb0Z0y1-o/ts
+#EXTINF:-1,HK: Now Sports 4K
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eRqZ94MhbJxVwAytXiTRpi/ts
+#EXTINF:-1,HK: Now Sports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fxZerxyyOF0df-gQIMHJNV/ts
+#EXTINF:-1,HK: Now Sports 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5bqwmFGzoCogcSr8Zz2r2/ts
+#EXTINF:-1,HK: Now Sports 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fMFk_BOT_E4857wLDgDK42/ts
+#EXTINF:-1,HK: Now Sports 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f-zKFHjHKFkXxOht-OWJNW/ts
+#EXTINF:-1,HK: Now Sports 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cbYc3DhNdaciVxJjUOnlXj/ts
+#EXTINF:-1,HK: Now Sports 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9FPX6wOIgcg-L3Y8jXF3u/ts
+#EXTINF:-1,HK: Now Sports 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNzU-dAR6QiaHAB0I5ELtI/ts
+#EXTINF:-1,HK: Now Premier Sports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fx2uuG8yg2ydtg2yYIWzFq/ts
+#EXTINF:-1,HK: Now Premier Sports 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cjR7FBScAxO5DqkhRxR78H/ts
+#EXTINF:-1,HK: Now Premier Sports 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ewGBxWWZ--mXaHtMDr-zPq/ts
+#EXTINF:-1,HK: Now Premier Sports 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cc1KgXH6vjKV6bg-l1-sni/ts
+#EXTINF:-1,HK: Now Premier Sports 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZX-GI_M5auZ_HU0UI9fpU/ts
+#EXTINF:-1,HK: Now Premier Sports 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj5unRlq5_dP8gpsWc3eF9/ts
+#EXTINF:-1,HK: Now Premier Sports 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eaq2XOdjW9ovS6NjWqPx-d/ts
+#EXTINF:-1,HK: Now Premier Sports 8 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dnkyA8qVHFPMNcSAni0S1N/ts
+#EXTINF:-1,Coronavirus (COVID-19) Pandemic HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ciNGELg1xg9c_ac3DxaOY9/ts
+#EXTINF:-1,Coronavirus (COVID-19) Outbreak HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dF0NCOeUquuaL7UnvZemCY/ts
+#EXTINF:-1,NZ: Sky Sport 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efkJduLcue4Za5q5NPukg7/ts
+#EXTINF:-1,NZ: Sky Sport 2 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ce9K4wClAdzupDbset7VP-/ts
+#EXTINF:-1,NZ: Sky Sport 3 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbMUnBxcbMdSNtXoN7S9Ex/ts
+#EXTINF:-1,NZ: Sky Sport 4 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07da7IjP7__ZBizNz8Yz1SDc/ts
+#EXTINF:-1,NZ: Sky Sport 5 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cO0oRFA9ldSj1HQy3u85Qy/ts
+#EXTINF:-1,NZ: Sky Sport 6 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cdLfZZ4EUltgXhlaDLBNJU/ts
+#EXTINF:-1,NZ: Sky Sport 7 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eMisrP3FcaCp18ktH-k8Rw/ts
+#EXTINF:-1,NZ: Sky Sport 8 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c58voCSqr6QFxHaR4ixHEb/ts
+#EXTINF:-1,NZ: Sky Sport 9 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eX19qEE6hQ0tj53gVnYR-u/ts
+#EXTINF:-1,NZ: Sky Sport Select FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZvwbFntpQ2GwAFIOjfX8J/ts
+#EXTINF:-1,NZ: Spark Sport 1 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cUxJjLH-6vrO3JO8Me2N7E/ts
+#EXTINF:-1,NZ: Spark Sport 2 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07edIKnGYGUpiCbE-7HDLPZ3/ts
+#EXTINF:-1,NZ: Spark Sport 3 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cF6_XXfY-DYDTsgZ546scQ/ts
+#EXTINF:-1,NZ: Spark Sport 4 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cptmwa37lSGMb709XXKIWY/ts
+#EXTINF:-1,NZ: Spark Sport 5 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dCf6Go_HXpCfoC25mEu1B7/ts
+#EXTINF:-1,NZ: Spark Sport 6 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e6eQii6CEvti5UwJu7sCwQ/ts
+#EXTINF:-1,NZ: Spark Sport 7 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fmyhRIP5cKaQegCzcOVqOn/ts
+#EXTINF:-1,NZ: Spark Sport 8 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cUPaeowAI4LebQoNAdZI80/ts
+#EXTINF:-1,NZ: Spark Sport 9 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dnEH9xXGck_01d_HG-zZmk/ts
+#EXTINF:-1,NZ: Spark Sport 10 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cCQgi7a5joi9tZjM3QZFCo/ts
+#EXTINF:-1,Carib: Rush Sport HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dHDgrgGFP7E1ryoz7r_QIw/ts
+#EXTINF:-1,Carib: Flow Sports HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cEJ9iLMERxmSNYkkho_RMj/ts
+#EXTINF:-1,Carib: Flow Sports Extra 3 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ez1Xwsc67Xe0nIfG4Za5I5/ts
+#EXTINF:-1,Carib: Flow Sports Extra 4 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eoCY8FG5hsD5Y519J0t2WW/ts
+#EXTINF:-1,Carib: Flow Sports Extra 5 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e99BEJeYToRuwAr6hlfSZN/ts
+#EXTINF:-1,HK: Now Sports 601 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cnL6yScXhbzPtKjSEstPPw/ts
+#EXTINF:-1,HK: Now Sports 602 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ccDaR6-BhInrg2CMz6nXLr/ts
+#EXTINF:-1,HK: Now Sports 603 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dxVArC6QelJVT2NpDYb-Yc/ts
+#EXTINF:-1,HK: Now Sports 604 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dbGjlo5sLraqvs-0R0rZ44/ts
+#EXTINF:-1,HK: Now Sports 605 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fs9lm8-q-XU0Ou_dd3k1gI/ts
+#EXTINF:-1,HK: Now Sports 606 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ebKvExLPNLqZUU-xjAIgOK/ts
+#EXTINF:-1,HK: Now Sports 607 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07flZ1lOygpNJIAEHipnTnfk/ts
+#EXTINF:-1,HK: Now Sports 608 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePnR-DLtfTQbYvhW33iwXa/ts
+#EXTINF:-1,HK: Now Sports 609 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cXPEmr_jpJPfbRk0rJKdWP/ts
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB KNOWLEDGE",
+#EXTINF:-1,DE: 1-2-3.TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07emxHVr3kPwTrM9aSsmyeFl/ts
+#EXTINF:-1,DE: 3Sat FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eetwFKVTRfmt-y12guHx0Y/ts
+#EXTINF:-1,DE: 13th Street FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eFw1Z2kfvM7cEzSgwozdM4/ts
+#EXTINF:-1,DE: 13th Street HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c2G9T9a0hRxuaARdMDaeOM/ts
+#EXTINF:-1,DE: Animal Planet FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7cJPzCWGARpeqAy28txIB/ts
+#EXTINF:-1,DE: Animal Planet HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eN0RS46ONvgdnC6fZiW1H8/ts
+#EXTINF:-1,DE: Anixe+
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVnobqR3lqZvPLELaNe7YK/ts
+#EXTINF:-1,DE: Anixe Serie FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e_3U1Fd73Y1YspnEJwgD9N/ts
+#EXTINF:-1,DE: Arte FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eDrs6nTRqU65_4unQcEtWz/ts
+#EXTINF:-1,DE: Arte HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fCu0OBJec2ZG_x3adTWxPn/ts
+#EXTINF:-1,DE: ARD Alpha FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fKqd0Va20fiieyKlSDnVLD/ts
+#EXTINF:-1,DE: Auto Motor Sport FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dh8PoAGlPdUKBWHcYUp_So/ts
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dxnkmHE4JResrz7RsNjVOC/ts
+#EXTINF:-1,DE: Bibel TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fywkHlCL5z4x_rsiFtQqax/ts
+#EXTINF:-1,DE: Bild FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cZH5aFcibFmZxGwt5xERQh/ts
+#EXTINF:-1,DE: Bon Gusto FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f2Wy8gVqviXE8C2VRliNOD/ts
+#EXTINF:-1,DE: Boomerang FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZ_e3KLLIdkqycDu0BrIJm/ts
+#EXTINF:-1,DE: Boomerang
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eEkdp7ijr_PXkRgv9bti_T/ts
+#EXTINF:-1,DE: BR Fernsehen HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eL_1dIm4eolrvBDd8_DcTj/ts
+#EXTINF:-1,DE: Cartoon Network FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cVf-1EwhkH16le5yRXnrRM/ts
+#EXTINF:-1,DE: Cartoon Network
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePK5Moz5KJYMzXNeCnGzAf/ts
+#EXTINF:-1,DE: Classica
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cgL0bIs0Oj7dIX6v-3i94I/ts
+#EXTINF:-1,DE: Comedy Central FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dk9hDceRAQi-15bZojfeyh/ts
+#EXTINF:-1,DE: Comedy Central HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cttFZsLgMBi4U62bLB9YPT/ts
+#EXTINF:-1,DE: Crime+ Investigation FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ce2T9vUQ0CDahb1ImrB9__/ts
+#EXTINF:-1,DE: Crime+ Investigation HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eV0i9m-5eLbehfjkzRTHLZ/ts
+#EXTINF:-1,DE: Das Erste FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f2cgXzEpClRfgW8xnWg6bd/ts
+#EXTINF:-1,DE: Das Erste HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efi9fdfZNOyOvW8cjtjkgw/ts
+#EXTINF:-1,DE: DAZN 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fxFgPCYyXn70I-x6JKXW8w/ts
+#EXTINF:-1,DE: DAZN  1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eajHM4XGzE3EEDzNI9jaba/ts
+#EXTINF:-1,DE: DAZN 2 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dqzVJggbhHiB1fnT-v2pUr/ts
+#EXTINF:-1,DE: DAZN  2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXFvvrxkg7-lgj0Cc8Vq6e/ts
+#EXTINF:-1,DE: Deluxe Music FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07enfkujhPtcjWlK83DpWnVl/ts
+#EXTINF:-1,DE: Deluxe Music
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07etQSyo2wzSOQojM2q302pf/ts
+#EXTINF:-1,DE: Deutsches Musik Fernsehen HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dESo3V2zhBtmnwodD7CJyZ/ts
+#EXTINF:-1,DE: Discovery Channel FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cwLvjcb5vDXHjBcfhthxM3/ts
+#EXTINF:-1,DE: Discovery Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ekH9-8Bl53yVe9vI0IJA4L/ts
+#EXTINF:-1 group-title="HTB KIDS"
+#EXTINF:-1,DE: Disney Channel FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fJxKO7yh13hQqp5m9ajESv/ts
+#EXTINF:-1,DE: Disney Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cqjdWpCv83ipi3YDhP-va5/ts
+#EXTINF:-1,DE: Disney Junior FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fyNR60WpoJEnrECwdXNlbr/ts
+#EXTINF:-1,DE: Disney Junior HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fOIyHKHjbZjmWqQkiwEhDi/ts
+#EXTINF:-1,DE: Dmax FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eH-HnpQT5Xq2E7ZjnyVvgG/ts
+#EXTINF:-1,DE: Dmax HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f26MWH9-wbDFm2pR-DPgaB/ts
+#EXTINF:-1,DE: Doxx FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dghINx-EWZesWgNeyHAQCr/ts
+#EXTINF:-1,DE: Doxx HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eKvB_-YoPTfVxp9XOklgui/ts
+#EXTINF:-1,DE: E! FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fEg1lRgnvFXh-Gm0LYfwid/ts
+#EXTINF:-1,DE: E! HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-KY3p0DYg2rXQIPYsOf7y/ts
+#EXTINF:-1,DE: eSports 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07exfwIeCk36QfBQk0styrlf/ts
+#EXTINF:-1,DE: eSports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fe0TzRFZwThIoEGCa4d_Fk/ts
+#EXTINF:-1,DE: Euronews HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d9P88Ik9XfZKvWdKVzU8tb/ts
+#EXTINF:-1,DE: EuroSport 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07djPRS2zvQ-hJZjPJ44EKJu/ts
+#EXTINF:-1,DE: Eurosport 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dPFrbaOeUGSqjso4vrKwCG/ts
+#EXTINF:-1,DE: EuroSport 2 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e2R1fzrWmvVoo4V_g44nPi/ts
+#EXTINF:-1,DE: Eurosport 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eShUtHEtmdiSLUKe0voJhH/ts
+#EXTINF:-1,DE: EuroSport 2 Xtra FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07evrun5VDW4rBbEvnaRwt-4/ts
+#EXTINF:-1,DE: Eurosport 2 Xtra HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eo87glfJN1VHJKuiv8JY2o/ts
+#EXTINF:-1,DE: EuroSport360 1 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dWSbJl-nqx9E6O1J_0f2Rs/ts
+#EXTINF:-1,DE: EuroSport360 2 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f9yx9DqKYxGtsHoKz4_dss/ts
+#EXTINF:-1,DE: EuroSport360 3 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eVvxyjNU7oPWdR2czWjWYd/ts
+#EXTINF:-1,DE: EuroSport360 4 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fw_pj_mRFwT50uH6ZV5rBF/ts
+#EXTINF:-1,DE: EuroSport360 5 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f8_J4mG0XQccpahcikGOis/ts
+#EXTINF:-1,DE: EuroSport360 6 FHD  (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXkzTfNLlvm7wXV1Uo3zjI/ts
+#EXTINF:-1,DE: EuroSport360 7 FHD  (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fne5y6XPOPqeGwUY2ByoD4/ts
+#EXTINF:-1,DE: EuroSport360 8 FHD  (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c4D3VpneKR6jl76fpCQBSv/ts
+#EXTINF:-1,DE: EuroSport360 9 FHD  (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dqff0YjGDUQC-2PmB8uKYy/ts
+#EXTINF:-1,DE: Extrem Sports
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dw3l2pPVjij3lYmwxPKtRb/ts
+#EXTINF:-1,DE: FC Bayern TV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d-WsDfU2kOXwDi2At8xBlm/ts
+#EXTINF:-1,DE:  Franken Fernsehen FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e6NVIkbulaVbC0wjzTdjzb/ts
+#EXTINF:-1,DE: Genius Plus
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cbtXCRtWjRY4WiIoyOfAei/ts
+#EXTINF:-1,DE: GEO TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eaRi-kp0EgS9dOOxC3TnMH/ts
+#EXTINF:-1,DE: Gute Laune TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d6siSPvuJaT0VV2J6QkE5w/ts
+#EXTINF:-1,DE: Heimat Kanal
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eRMLTjAx1NBXqi4F3K9Exj/ts
+#EXTINF:-1,DE: HGTV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e2-jpPhiQNcwC-YuPI7CdD/ts
+#EXTINF:-1,DE: History FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07euDu_XFcZdluq2F5FLuBjP/ts
+#EXTINF:-1,DE: HR FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07edAQchWmfZcLGgX6uuYR42/ts
+#EXTINF:-1,DE: HSE24 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drAw8E3VtV6qYBoUeGyxYq/ts
+#EXTINF:-1,DE: HSE24 Extra FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fWSLxhXmbma1h_KqS8r4gE/ts
+#EXTINF:-1,DE: JukeBox
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f5W7IaSud5UixqwK36K-NP/ts
+#EXTINF:-1,DE: Junior
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fFcinDOKPWKmQ9MdTlu95y/ts
+#EXTINF:-1,DE: Juwelo FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5KfOcV2P59u3BlReRsDci/ts
+#EXTINF:-1,DE: Kabel Eins FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07egkAURzV1ukrANFPcDf8d-/ts
+#EXTINF:-1,DE: Kabel Eins HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dkxNEd10a0hbHIT8PIJ3T0/ts
+#EXTINF:-1,DE: Kabel Eins Classic FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cX49Cb0D8u2lm2FnWVPAwe/ts
+#EXTINF:-1,DE: Kabel eins Doku FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cxFp8YsMSzpMtW3NQ54pap/ts
+#EXTINF:-1,DE: Kika FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cE7wwe9C8ZYRtM1tbCTQhU/ts
+#EXTINF:-1,DE: KiKa HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dVTz8wEMvuWo6joi3S7TZi/ts
+#EXTINF:-1,DE: Kinowelt FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQT96hx7hN_gTCKzbUyv8Z/ts
+#EXTINF:-1,DE: Kinowelt HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d1ecICUGIt1jvzX74J0t8y/ts
+#EXTINF:-1,DE: MDR Sachsen FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cnYwlS4kQQf-qF3IsBDZyR/ts
+#EXTINF:-1,DE: Melodie TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-XsPvGrtjejyAS88VshQx/ts
+#EXTINF:-1,DE: Motorvision FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cXoEJfg1gawr3Tb-i17klb/ts
+#EXTINF:-1,DE: Motorvision
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fhPKw8xS5IdpmOCZ-RN28f/ts
+#EXTINF:-1,DE: MTV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fLygAFEMYgRLL0DYitNYrC/ts
+#EXTINF:-1,DE: MTV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ecbi4CnNyCft1Xkk2QgTNL/ts
+#EXTINF:-1,DE: MTV Brand New
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cpRPlwidZHqV3pmUlMtVu0/ts
+#EXTINF:-1,DE: MTV Live FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07egKzxjRo2o1DDoxldJPpaM/ts
+#EXTINF:-1,DE: MTV Music 24
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07emCZYlF0tuhGtiyNHllOS0/ts
+#EXTINF:-1,DE: N24 Doku
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07embX9t1od-fBOHzBumMB-2/ts
+#EXTINF:-1,DE: N-TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dmqj5bjs6tdE8JTgc-9h9I/ts
+#EXTINF:-1,DE: N-TV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cLiobo3710ykVHn2_ohXHw/ts
+#EXTINF:-1,DE: Nat Geo FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eYvahVmmBKi6Lec4nLX_NZ/ts
+#EXTINF:-1,DE: Nat Geo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d-9_qYX9wRY_XYtMYJB_bj/ts
+#EXTINF:-1,DE: Nat Geo Wild FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cAYQIaPU8Xp65tUbqUPRPA/ts
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dnK1r_FfcdlGYkzQECiljB/ts
+#EXTINF:-1,DE: NDR FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f_BR-3RyJWqAQnN-joJhvr/ts
+
+
+﻿#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Kids",
+#EXTINF:-1,DE: Nick FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsourgolql6FwzwJAZ8863/ts
+#EXTINF:-1,DE: Nick Jr FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dsFDeoHnISA-lBvOZw2u5N/ts
+#EXTINF:-1,DE: Nicktoons
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d66-eIjiVDc_l9q9wII-Xe/ts
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB MOVIES",
+#EXTINF:-1,DE: Nitro FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cEi4NwiNrcSm23b9VbHaP9/ts
+#EXTINF:-1,DE: Nitro HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dL-86Bgqm0ascnov3ujlWq/ts
+#EXTINF:-1,DE: One FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fgjedZ3RF5XeDFUHKDYZDA/ts
+#EXTINF:-1,DE: One HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eF56UiaV2CA2YSosKhiz4z/ts
+#EXTINF:-1,DE: Pearl TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fzQYyriHUfwFOQ-Jnwbd_c/ts
+#EXTINF:-1,DE: Phoenix FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ct7lJU9-FXsctvMXNtIFTd/ts
+#EXTINF:-1,DE: Phoenix HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZ7gjC2YztzWLtQ5WIuvpc/ts
+#EXTINF:-1,DE: Pro 7 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f15XFrwebjbaVaSWFLYXof/ts
+#EXTINF:-1,DE: Pro 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fWTGfpNHDICqBo0fRabEqZ/ts
+#EXTINF:-1,DE: Pro 7 Fun FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fqc8JZ0Vh3DYwr8bcPhexv/ts
+#EXTINF:-1,DE: Pro 7 Maxx FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fgoIzqeaURbbAqho3HYip8/ts
+#EXTINF:-1,DE: Pro 7 Maxx HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fObw5reuYa0SWEZNO192T9/ts
+#EXTINF:-1,DE: QVC FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eg_uBGqZEyGsR98QcBEtCI/ts
+#EXTINF:-1,DE: QVC Zwei FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eM8zl7nBnMietth301efRm/ts
+#EXTINF:-1,DE: QVC Style FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dn0jPFk-VE-c_MLQfEOAkV/ts
+#EXTINF:-1,DE: rbb Berlin FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cyi3KCXRhCuCgC5j--4Qb3/ts
+#EXTINF:-1,DE: Romance TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZB-W-F30y43f38oM4Dz4x/ts
+#EXTINF:-1,DE: Romance TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07doL-6HJnmirsiIbNW-Cvzy/ts
+#EXTINF:-1,DE: RTL UHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drDaMdoiIC1BuZxGN4fe0e/ts
+#EXTINF:-1,DE: RTL FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9YHhrxIJJdh5DQfX7wrVv/ts
+#EXTINF:-1,DE: RTL HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dkY9T3upAlig9JwpNj0jry/ts
+#EXTINF:-1,DE: RTL II Zwei FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbeZQjfTNPUpc7rXd-38-A/ts
+#EXTINF:-1,DE: RTL II Zwei HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drjmXDirdu7m6onfUqYJJs/ts
+#EXTINF:-1,DE: RTL Crime FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fv6m1vA7dqfjiq7Y4LaY9D/ts
+#EXTINF:-1,DE: RTL Crime HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dT36T1JG48OYqwLEoPV2e4/ts
+#EXTINF:-1,DE: RTL Living FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7HMkpyXDSfLujgBg_vI5J/ts
+#EXTINF:-1,DE: RTL Living HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXKBt40d6Nqpwhvy3yKtkk/ts
+#EXTINF:-1,DE: RTL Passion FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cx0xI4EU3WfAry_uMVfeLP/ts
+#EXTINF:-1,DE: RTL Passion HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fkTzAY1HNyeSCUG_ZUc6ZV/ts
+#EXTINF:-1,DE: RTL Plus
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dnv_WjnpAuP1uQbs0J7OY-/ts
+#EXTINF:-1,DE: Sat.1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsOc61ixvLl5V1urcxRqca/ts
+#EXTINF:-1,DE: Sat.1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTt7Oz8gp7ll_tFTWOExGv/ts
+#EXTINF:-1,DE: Sat.1 Emotions HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dJZw314LVIjENN0nK5Vn3J/ts
+#EXTINF:-1,DE: Sat.1 Gold FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07epnEmzLP9WfGvXWFKf01aV/ts
+#EXTINF:-1,DE: Sat.1 Gold HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eEi-QOSXVrN6pdgoMe8bTB/ts
+#EXTINF:-1,DE: Sixx FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dqC5okgML1orcEBuURwn_f/ts
+#EXTINF:-1,DE: Sixx HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eXub1lKxGOJFim-w_u1-Yr/ts
+
+
+﻿#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Sky",
+#EXTINF:-1,DE: Sky One FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f8cgj2BpYlyq32xwsNIWtn/ts
+#EXTINF:-1,DE: Sky One HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHzI7JS5pEyPEg-e7BPNbZ/ts
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dcUJW_tC3o4jBpL7lJ1Sl8/ts
+#EXTINF:-1,DE: Sky Atlantic HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cpbTLQb42KWiKqX3X_1xpl/ts
+#EXTINF:-1,DE: Sky Cinema Action FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eNC5yCJUWYJiX2TtC38yew/ts
+#EXTINF:-1,DE: Sky Cinema Action HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHxLLdgQKX8x61O2elQx8_/ts
+#EXTINF:-1,DE: Sky Cinema Best Of FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07feiHY9jYNJlMwEM117Oz5S/ts
+#EXTINF:-1,DE: Sky Cinema Best Of HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dEj0xl0H-wlrDGN3dZi_AH/ts
+#EXTINF:-1,DE: Sky Cinema Classics
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dtBvTvMXkSJ6PbefGmHade/ts
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07enSmgxhTBoqRLCAyCBPKPg/ts
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fvRgVZCCWSZ-hayusDbbiu/ts
+#EXTINF:-1,DE: Sky Cinema Fun
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fdexJc51J2JbYqkr2JoKia/ts
+#EXTINF:-1,DE: Sky Cinema Premieren FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d0l1IxyMsK7shmVwZpPZ3y/ts
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f9QQ5SyjfDrDetZTpLOcJf/ts
+#EXTINF:-1,DE: Sky Cinema Premieren +24 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLsV8G_RvzwP3K02PMz7kX/ts
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fIh_GYHHsVQWYBEG9Qv9qB/ts
+#EXTINF:-1,DE: Sky Cinema Thriller FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eu39XKtMiCpiORCagtvDVV/ts
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fLZxDN7-GX7UKx5bEAcRT1/ts
+#EXTINF:-1,DE: Sky Cinema Special FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eD2dy6jPm3af9oBkvxYDeg/ts
+#EXTINF:-1,DE: Sky Cinema Special HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dm9BTnWBROyYBVGzB0kTM7/ts
+#EXTINF:-1,DE: Sky Comedy FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fYnhk1Hk6-F6ypzwioHATp/ts
+#EXTINF:-1,DE: Sky Crime FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eoYhZQWB1Fcu-YhKaFwKWW/ts
+#EXTINF:-1,DE: Sky Documentaries FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eDMHGhTbaCprdfP57MugAN/ts
+#EXTINF:-1,DE: Sky Krimi FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dWVsirpzMaLXiUnra_ABMI/ts
+#EXTINF:-1,DE: Sky Nature FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQ04X93b16ju0LJ_vj5uqO/ts
+#EXTINF:-1,DE: Sky Replay FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTb2e9VjYhrP9m-NoF2raR/ts
+#EXTINF:-1,DE: Sky Replay HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cIL4JccsAdB7NCs6FdLitu/ts
+#EXTINF:-1,DE: Sky Serien & Shows FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fC-SVmpsBer53Ya5PSnEps/ts
+#EXTINF:-1,DE: Sky Sport F1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dc8yLsHuoT2D3XCeXgnttx/ts
+#EXTINF:-1,DE: Sky Sport F1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cK4fSndZd1qgWAmC_4tCcS/ts
+#EXTINF:-1,DE: Sky Sport 1 UHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cPjxenROOhvJh1DtKzSwZj/ts
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eREj21-1z1rDJUdh8liqQ3/ts
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dqW66jTA6Z4otIlmny81g7/ts
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e65K0qxhdOoW_7Fa3Wqj_Q/ts
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ff7k6zD3Flhi8l8cldOaV9/ts
+#EXTINF:-1,DE: Sky Sport 3 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eJ7NVxXCZEiLfvdmCJl7Qz/ts
+#EXTINF:-1,DE: Sky Sport 3 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cFrMDfl0e2FdIPRRXVBZJ4/ts
+#EXTINF:-1,DE: Sky Sport 4 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f5IjWXpVfJYLh1uZ_7LRbW/ts
+#EXTINF:-1,DE: Sky Sport 4 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c_AgGhGfaArNdGoW53Jx46/ts
+#EXTINF:-1,DE: Sky Sport 5 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dH1G1uRRxv-X7KIxmv2fQb/ts
+#EXTINF:-1,DE: Sky Sport 5 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efQtCLJ16c-o--BSPRDlks/ts
+#EXTINF:-1,DE: Sky Sport 6 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cw_bvaa7_POni_ab8aRwxu/ts
+#EXTINF:-1,DE: Sky Sport 6 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fNBha6RU55jhURTaPn1MCs/ts
+#EXTINF:-1,DE: Sky Sport 7 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ecamKVQFesEUAmxLK0hGZ9/ts
+#EXTINF:-1,DE: Sky Sport 7 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fzL75fdn1KL74_OJnZreja/ts
+#EXTINF:-1,DE: Sky Sport 8 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cL_1nfkv9ZOp-ljgajfm2F/ts
+#EXTINF:-1,DE: Sky Sport 8 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c2vYbGBfLKwD-8Ox0y5int/ts
+#EXTINF:-1,DE: Sky Sport 9 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fum_B1EFoNIuazZzHs9ewd/ts
+#EXTINF:-1,DE: Sky Sport 9 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dvmBcdSjsgCLfp5igWvmVp/ts
+#EXTINF:-1,DE: Sky Sport 10 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fBWUip6nQepG324O_EvuYa/ts
+#EXTINF:-1,DE: Sky Sport 10 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eb_1x26IBGIohYUp5gQAAC/ts
+#EXTINF:-1,DE: Sky Sport 11 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cRaZOgwaq3WOjixgm3BDvl/ts
+#EXTINF:-1,DE: Sky Sport 11 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c_DAmOfbsddVtQbAIcVw19/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 UHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cYNty-SgDuq9fcWJ6APjf-/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fmq1Pwcsg7wevsDletEuFK/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d1QaBtmyOdIba6McMbUfDy/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZFIOojqP3FwGBxHVtfgXZ/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dMDwiNovTZMKjlKadIEzcg/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eSWC_Hw4dkfPdSaIEKwsyo/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ev5pnbyLzoSNBH-FW0J2m4/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fu952i3gcwNlYyB_fxRrbC/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZn4-XtFOVoTJjF0tRMn7K/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f9sS6pzMZsKvBiJiQhUv2-/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dqNbb0ARbYGEt_Gal8dHCM/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ed7PVpiC-U2-r96RsO7Z4O/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e--1spNJlyRE-zmeVfJZns/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eYyj2B3E7I4JdIDD_hQ8G7/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fBAp93C0ZY0S7p-Fqtprgz/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dbKHO22vu_HmcIEhhuqhVX/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eNPniEdZb2F4HWSNTQbpNV/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fddqvEqc6SDlV4wYy_5ErQ/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eKcc6YgJD38hyT6agkBe0W/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 FHD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d_uly_1fYLyPuU2jbi3PAp/ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ejBzs9a-oOG0E81BL0IizL/ts
+#EXTINF:-1,DE: Sky Sport News FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f6KO7-oXzQXru75KtRopbq/ts
+#EXTINF:-1,DE: Sky Sport News HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dnTO2CqSGJ-yI5VDJo42Jk/ts
+#EXTINF:-1,DE: Sony AXN FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cxZxjBPGEBs2EeHHoHo-wK/ts
+#EXTINF:-1,DE: Sony AXN HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07etsLYPIgPXkyi_fDUGCxeJ/ts
+#EXTINF:-1,DE: Sony Channel FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f43ajCDonHweWiqY5Mtemx/ts
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLsvCzlug_wENLPN8fXZu7/ts
+#EXTINF:-1,DE: Spiegel Geschichte FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f5hZ5T81yG_sHgDzBxLjYb/ts
+#EXTINF:-1,DE: Spiegel TV Wissen
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dE6b_ATqy4COAu56pdXrth/ts
+#EXTINF:-1,DE: SonnenKlar. TV FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dIcRjLWlNMtnzfdjTzVCS4/ts
+#EXTINF:-1,DE: Sophia TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZMePjYfrsg3NYaOjZwxyZ/ts
+
+
+﻿#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Sports",
+#EXTINF:-1,DE: Sport1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07daCGYqkDRYZVicmWjVaNcJ/ts
+#EXTINF:-1,DE: Sport1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dTyZlzXsxFb1iMSuPCXfa3/ts
+#EXTINF:-1,DE: Sport1+ FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eYVlzf-RgP0mKIXAWFgUqz/ts
+#EXTINF:-1,DE: Sport1+ HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ewQT28FAxqWK7dmET0E2MZ/ts
+#EXTINF:-1,DE: SportDigital FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ejaDMIXnrzcRHnleRiGiuo/ts
+#EXTINF:-1,DE: SportDigital HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLPS-RNbl4zwyIx5s7cr6M/ts
+#EXTINF:-1,DE: SR FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ddjtQQE0G9HGY9S7Rz2xPm/ts
+#EXTINF:-1,DE: Super RTL FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07crdybB0UlRH5VcyvlHUPwn/ts
+#EXTINF:-1,DE: Super RTL HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f19pJcvu5ri0iPMHy2bBCc/ts
+#EXTINF:-1,DE: SWR BW FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cBzWPhIqQv0qH_pXKSOaS0/ts
+#EXTINF:-1,DE: SWR BW
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eYp387ia46EI0lIcXzghJn/ts
+#EXTINF:-1,DE: SWR HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07do9tkCWkS3nIwxdXZhVUSv/ts
+#EXTINF:-1,DE: Syfy FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eQZ7KK-I5DoI9aU5Lq0wc-/ts
+#EXTINF:-1,DE: Syfy HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dM_nLGL40ate7gmmVx2LiH/ts
+#EXTINF:-1,DE: Tagesschau 24 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePprVK7fwp7KC3RDn07HwX/ts
+#EXTINF:-1,DE: Tagesschau 24 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fOpK_bdOyr7nmpENIEr8Q_/ts
+#EXTINF:-1,DE: Tele 5 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e_P1SYbtJJZDT7QcNoCBlG/ts
+#EXTINF:-1,DE: Tele 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7Yy1kQurw6LsFNfzFBo6M/ts
+#EXTINF:-1,DE: 3. Bundesliga 1 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07exI2axDEG84oevMoQWG31K/ts
+#EXTINF:-1,DE: 3. Bundesliga 2 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cYnvNeY9uOCZTY7OEG5QGS/ts
+#EXTINF:-1,DE: 3. Bundesliga 3 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c4ka-KgSp0Tga1XhH5TK0A/ts
+#EXTINF:-1,DE: 3. Bundesliga 4 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07crsOdaR6hB08eIZi3eSjIS/ts
+#EXTINF:-1,DE: 3. Bundesliga 5 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cNSJqd64dK3MJ1n4GfedkV/ts
+#EXTINF:-1,DE: 3. Bundesliga 6 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d2YZ5epRx1N4QJV4hNW0Ps/ts
+#EXTINF:-1,DE: 3. Bundesliga 7 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cC--l9yY4gaqyLsANSSB1Y/ts
+#EXTINF:-1,DE: 3. Bundesliga 8 HD (Live During Events Only)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f9-aCzFSQsb-Mu4EnEP5To/ts
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB GADO",
+#EXTINF:-1,DE: TLC FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cS7DaAb_5fSZke3-f7whC1/ts
+#EXTINF:-1,DE: TLC HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e5rGp68uB2In2-YJxGWrpt/ts
+#EXTINF:-1,DE: Toggo Plus
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-TunN90klZDSLNsp2I1xs/ts
+#EXTINF:-1,DE: UHD 1 by Astra
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fKyHi_XRSYEqSnjvVY1Bcs/ts
+#EXTINF:-1,DE: Universal Channel FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fCl7ywrWoTayNjOoRmkSux/ts
+#EXTINF:-1,DE: Universal Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7dqLbzq_mQAszx9t5KeP8/ts
+#EXTINF:-1,DE: VOX FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cobWrvx4QB_C_wFpX3Pq3P/ts
+#EXTINF:-1,DE: VOX HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cQL-keqJ1ygoK5BOyHyYM5/ts
+#EXTINF:-1,DE: VOXup
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e13o18j7DiUB2jPdN_gTxM/ts
+#EXTINF:-1,DE: Waidwerk FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fRUeLDsQyngNRpP1KW16bQ/ts
+#EXTINF:-1,DE: Warner TV Comedy FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cqUyyImaBZLNRPTSclGpvZ/ts
+#EXTINF:-1,DE: Warner TV Comedy HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07clGpbD_Go9sT5heVHVJ-g0/ts
+#EXTINF:-1,DE: Warner TV Film FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07exB1dr9H-5liO5mvEy7nhp/ts
+#EXTINF:-1,DE: Warner TV Film HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dO5LHutzKWkiAoyjqNgvxJ/ts
+#EXTINF:-1,DE: Warner TV Serie FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj6Q1tBIvLEDNXHOSaxg7H/ts
+#EXTINF:-1,DE: WarnerTV Serie HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dVqWh1LICsGee_keONdkDw/ts
+#EXTINF:-1,DE: WDR HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ey7L0qrpW_cDxw27gCOhJg/ts
+#EXTINF:-1,DE: Welt FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cQZGZ7OJr2cWpwdGSPb1L5/ts
+#EXTINF:-1,DE: Welt HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07doFRBzzP5aQdiQC1Ef3vHm/ts
+#EXTINF:-1,DE: ZDF FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fsWHzxgHoWIQxYkR39RRJ7/ts
+#EXTINF:-1,DE: ZDF HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cDki7ZSWjeoUWZkX0nI7Iz/ts
+#EXTINF:-1,DE: ZDF Info FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d_hGN3gXopNjjUt3NG2riw/ts
+#EXTINF:-1,DE: ZDF Info HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHrA4JEwyqz1gE_wAFNsGO/ts
+#EXTINF:-1,DE: ZDF Neo FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eJeXaxfux-mLQJ7paCP_Gp/ts
+#EXTINF:-1,DE: ZDF Neo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eew-PvQ2-RZLCsqoyuY2Mv/ts
+#EXTINF:-1,AT: ATV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5xWu0BzauwmCjiICh1DLj/ts
+#EXTINF:-1,AT: ATV II
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c7d0ryE-0-CEYVz_iWh5N4/ts
+#EXTINF:-1,AT: Austria 24
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dO9eKka2YtKYgcOVXn8rAQ/ts
+#EXTINF:-1,AT: Dorf TV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e4WpqrbZAcG5Pd8A6cQ1bI/ts
+#EXTINF:-1,AT: KroneHit TV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cY282IM4ytQVyeJ1k_OIGT/ts
+#EXTINF:-1,AT: Oe24 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLw1bCukbOrZ59vCr3mAhg/ts
+#EXTINF:-1,AT: ORF 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d9SjFCxlSVpgb2bgJwD_JS/ts
+#EXTINF:-1,AT: ORF Zwei FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f6opaFqjBtZgN94J9dyldL/ts
+#EXTINF:-1,AT: ORF 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fH7y0cEjf9m-fVFxAOLBFB/ts
+#EXTINF:-1,AT: ORF 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTcsHy9Rtss5_k2tJulM7D/ts
+#EXTINF:-1,AT: ORF Eins FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fjXgWYJo65ZmX8zL90Hiur/ts
+#EXTINF:-1,AT: ORF Sport +HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fzD3-iemXs9Xsj8orR7zIq/ts
+#EXTINF:-1,AT: Puls 4 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07faFAHXdA233W7JvrRfdjqF/ts
+#EXTINF:-1,AT: Puls 24 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ebUmPfkVIWbO7SVPOfZKJt/ts
+#EXTINF:-1,AT: Servus FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ebYL8KtAsysmwEqNYlykag/ts
+#EXTINF:-1,AT: Sixx HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNj3OJ-pGuVszG2bxU4Stv/ts
+#EXTINF:-1,AT: Sky Sport Austria 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dvouH4NSDn-Cdcboy45lV4/ts
+#EXTINF:-1,AT: Sky Sport Austria 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f1Z8Yg19SJf5r3lh_7AC99/ts
+#EXTINF:-1,AT: Sky Sport Austria 2 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e35dGDO5RKxI4Rf82oyCG9/ts
+#EXTINF:-1,AT: Sky Sport Austria 2
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c91iXvmlf2ZpM00bk2QPKQ/ts
+#EXTINF:-1,AT: Sky Sport Austria 3 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e0_cnCHOfnTK29VFhxO0QD/ts
+#EXTINF:-1,AT: Sky Sport Austria 4
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZjOaBzmz2p6oIIWiNH-pJ/ts
+#EXTINF:-1,CH: 3+ FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQutrJMkD91NQ9wbWtcs6J/ts
+#EXTINF:-1,CH: 4+ FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fMOFJGRsqR014ziN0Vc1kk/ts
+#EXTINF:-1,CH: 5+ FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dfRbkuphHbksOMJeXAwnwk/ts
+#EXTINF:-1,CH: 6+ FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dKgVQkiOmyPxvdKNfgmXFn/ts
+#EXTINF:-1,CH: Puls 8 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cACdpr7xjtPE1Sc6J6Rl0D/ts
+#EXTINF:-1,CH: SRF 1 FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cecoO447RJvNbDQLHZNqBG/ts
+#EXTINF:-1,CH: SRF Zwei FHD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cxCw4WJVZuvsLTOtKpoGzF/ts
+#EXTINF:-1,CH: Blue Sport 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dSKCq6VOR2nHhOld83sKbU/ts
+#EXTINF:-1,CH: Blue Sport 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cJ3j_dQ8n80X8Z-uz5f6GO/ts
+#EXTINF:-1,CH: Blue Sport Zoom D HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f1mgndH-Lye8_EheplSMuu/ts
+#EXTINF:-1,CH: MySports 1 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dG5s6J3iw-Y09IIp8xcdrb/ts
+#EXTINF:-1,CH: MySports 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07caCngbbANOt8_OXXTurPHo/ts
+#EXTINF:-1,CH: MySports 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fqgQ4UPhQ63JjJh2zGECev/ts
+#EXTINF:-1,CH: MySports 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cQdERZ9CpQ8KAyoU3rSkz_/ts
+#EXTINF:-1,CH: MySports 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dfDix70hzdFQNfwtmHGvCz/ts
+#EXTINF:-1,CH: MySports 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dUj5Hh4pSEC_9XPYMJ-HLG/ts
+#EXTINF:-1,CH: MySports 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dASyY10_iw3pqSc5GYDsjJ/ts
+#EXTINF:-1,CH: MySports 8 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cRYKC2Z57PbfsUvz9oMzs6/ts
+#EXTINF:-1,CH: MySports 9 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cZmb7I6m-FTYnZZhONRxH6/ts
+#EXTINF:-1,US: 7 News (WHDH) Boston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f80XnWaY5gsw0jy5Bx-gJP/ts
+#EXTINF:-1,US: 5 StarMAX HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dMKZtP7scRvdCK8bcC6mgt/ts
+#EXTINF:-1,US: 69 News (WFMZ) Philadelphia HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cqLOQyyd-s5EZC5gq0-qBQ/ts
+#EXTINF:-1,US: A&E HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cT0umJFdhO3XL9SOseu3_l/ts
+#EXTINF:-1,US: ABC News Live HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eo93mU6C6MK-vb94nqEFpW/ts
+#EXTINF:-1,US: ABC 10 (KGTV) San Diego HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d4EFht2AaS8cA22boBw_kB/ts
+#EXTINF:-1,US: ABC 7 (WJLA) Washington HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dmGatMsPzxkC-KDWXa1BDN/ts
+#EXTINF:-1,US: ABC 10 (KXTV) Sacramento HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eJgFUDj5LRssyqBm6OPkMm/ts
+#EXTINF:-1,US: ABC 30 (KDNL) St. Louis HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cTtTAlIbUREcUDTIyXqt9M/ts
+#EXTINF:-1,US: ABC 4 (KOMO) Seattle HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f0hGBHgM9CkIESWwXGQCc3/ts
+#EXTINF:-1,US: ABC 2 (KATU) Portland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dp714RvtTcWE31XdTVE6yt/ts
+#EXTINF:-1,US: ABC 4 (KTVX) Salt Lake City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dtdplWXzQh0iJrarBkOqzg/ts
+#EXTINF:-1,US: ABC 7 (KABC) Los Angeles HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fPlK2oP4SNhY8qXsIQsMvL/ts
+#EXTINF:-1,US: ABC 7 (WLS) Chicago HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ejYK2rKf-I3uiQaaG7d5is/ts
+#EXTINF:-1,US: ABC 4 (WTAE) Pittsburgh HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cdZYPyy-m6mz6CE7spM1G6/ts
+#EXTINF:-1,US: ABC 7 (WXYZ) Detroit HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fAY1eLJXDUSdl6YHKafO63/ts
+#EXTINF:-1,US: ABC 13 (KTRK) Houston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cfrh2iWp61daZ8KelNk0dM/ts
+#EXTINF:-1,US: ABC 15 (KNXV) Phoenix HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dhyERL7JT9a3I4msodFgbf/ts
+#EXTINF:-1,US: ABC 12 (WISN) Milwaukee HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cfM0NWd63Jf-3HDzUPba8c/ts
+#EXTINF:-1,US: ABC 2 (WKRN) Nashville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fxkl-0g9qKkCGKp2YAezs0/ts
+#EXTINF:-1,US: ABC 8 (WTNH) New Haven HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dk2dAOIlRIVv7BnwV8quhC/ts
+#EXTINF:-1,US: ABC 7 (KMGH) Denver HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eCHxcBpamv1bZKDcdBJcsr/ts
+#EXTINF:-1,US: ABC 5 (WCVB) Boston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dpe67UxkneuScomeIuDf78/ts
+#EXTINF:-1,US: ABC 6 (WRTV) Indianapolis HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cMbQYqluzNP-D6QvYmfkMd/ts
+#EXTINF:-1,US: ABC 9 (WFTV) Orlando HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07enbneWAAPgkffJAYXHWcom/ts
+#EXTINF:-1,US: ABC 8 (WFAA) Dallas HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eAcmIlQ1w3QGMqNgT08ZmN/ts
+#EXTINF:-1,US: ABC 7 (KGO) San Francisco HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dTAP4aiR5Y8vONoHixqOvG/ts
+#EXTINF:-1,US: ABC 6 (WPVI) Philadelphia HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dASlmVpCSYDJAjQf0ssVnH/ts
+#EXTINF:-1,US: ABC 11 (WTVD) Durham HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07etC0FtQfH0aCfACtdS5VzR/ts
+#EXTINF:-1,US: ABC 10 (WPLG) Miami HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eT0advgIqroHY3SZauTyTO/ts
+#EXTINF:-1,US: ABC 30 (KFSN) Fresno HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ejSQQ1xwWtBYPCffKI13th/ts
+#EXTINF:-1,US: ABC 12 (KSAT) San Antonio HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cKV0wGQULZRI49y8BJDclb/ts
+#EXTINF:-1,US: ABC 9 (KMBC) Kansas City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07crmlWFQZjJ9QzlgZrW64Y_/ts
+#EXTINF:-1,US: ABC 5 (WEWS) Cleveland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d7cEpTRNjJR6--iPU9TUfm/ts
+#EXTINF:-1,US: ABC 6 (WSYX) Columbus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dp7xqzK9w-AGXAZ-XW_Goq/ts
+#EXTINF:-1,US: ABC 5 (KSTP) St. Paul HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZ_u7kuIAuZc1L0rHMbuVS/ts
+#EXTINF:-1,US: ABC 2 (WMAR) Baltimore HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eq8vNIgNPsXIjiVTG7qaS-/ts
+#EXTINF:-1,US: ABC 28 (WFTS) Tampa HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dLppRQR9OyvvNBYef7i1Vi/ts
+#EXTINF:-1,US: ABC 9 (WSOC) Charlotte HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cVJ5xWoNaZvkmstqTnD-Ht/ts
+#EXTINF:-1,US: ABC 2 (WSB) Atlanta HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d4jR34FaJFtLz8m5HKHB05/ts
+#EXTINF:-1,US: ABC 7 (WABC) New York HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cV4b82I5fpeJc5qPVYnxAh/ts
+#EXTINF:-1,US: ABC 11 (WHAS) Louisville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dHk176iSFI4ZRgH7aPePuf/ts
+#EXTINF:-1,US: ABC 24 (KVUE) Austin HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dmWocBZbl9eVvMdoeEB5I4/ts
+#EXTINF:-1,US: ABC 25 (WJXX) Jacksonville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cQdGJtHYMY9jx00UuoaVk4/ts
+#EXTINF:-1,US: ABC 3 (WEAR) Pensacola HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cR1fGkqK_-riD4-Uhe_39X/ts
+#EXTINF:-1,US: ABC 8 (WRIC) Petersburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbHx7XpOjL0XT9dTRlMjj0/ts
+#EXTINF:-1,US: ABC 8 (WCHS) Charleston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ex1V6fNCCc-a_U3J-97Oka/ts
+#EXTINF:-1,US: ABC 10 (WTEN) Albany HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cEoMbg__3PTWhdBCLVygH5/ts
+#EXTINF:-1,US: ABC 45 (WXLV) Winston-Salem HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eePuja2w3jx1YapQKEV5W1/ts
+#EXTINF:-1,US: ABC 24 (WATN) Memphis HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c9LB2UMV4XXaJEAnvAIKx_/ts
+#EXTINF:-1,US: ABC 2 (WBRZ)
+#EXTINF:-1,US: ABC 7 (WZVN) Fort Myers HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTgKyZ7SkTaoYRrry6QKIw/ts
+#EXTINF:-1,US: ABC 9 (KCRG) Cedar Rapids HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f8bgLSTvvfntw6x-ItXOt7/ts
+#EXTINF:-1,US: ABC 27 (WHTM) Harrisburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dBrFYFlAr6Nqk-ANWD3FSC/ts
+#EXTINF:-1,US: ABC 31 (WAAY) Huntsville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cqiTpZG3JzLwqC3Ws24hZ6/ts
+#EXTINF:-1,US: ABC 40/29 (KHBS) Fort Smith HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dAPuv-zpxDkYO1svVYT5ME/ts
+#EXTINF:-1,US: ABC 40/29 (KHOG) Fort Smith HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eftu-DDg8UMvjOC6v2pHO_/ts
+#EXTINF:-1,US: ABC 5 (KOCO) Oklahoma City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ewXiLvmn_scKjGlmj6sj5x/ts
+#EXTINF:-1,US: ABC 13 (WLOS) Asheville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fX8yBcG9rspGvngGCqcXy8/ts
+#EXTINF:-1,US: ABC 17 (KMIZ) Jefferson City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cipfJSJaiUbeytfk-CutN6/ts
+#EXTINF:-1,US: ABC 25 (KXXV) Bryan HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efqYQRuRJcoeI9F1YRXrj_/ts
+#EXTINF:-1,US: ABC 13 (WZZM) Grand Rapids HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dtn5iAmXOV97S5web9DZi8/ts
+#EXTINF:-1,US: ABC 7 (WKBW) Buffalo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e7aKdwIJZwYUA4_fmPT85K/ts
+#EXTINF:-1,US: ABC 2 (WBAY) Green Bay HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eC7RiNNfrbssM9nTrZhNPc/ts
+#EXTINF:-1,US: ABC 6 (WJBF) Augusta HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePmgGk9d1brmTP4pdGOrBz/ts
+#EXTINF:-1,US: ABC 3 (WSIL) Illinois HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eBxP4JSXc4QytZmo-0TeCu/ts
+#EXTINF:-1,US: ABC 8 (KTUL) Tulsa HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cD3boGiuBjrWqqzwIkPFB4/ts
+#EXTINF:-1,US: ABC 36 (WTVQ) Lexington HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fuKaXqVwSQLRCLuc97x_g_/ts
+#EXTINF:-1,US: ABC 9 (WMUR) Manchester HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07flKrSpSJOlDMuY_u-ctVWh/ts
+#EXTINF:-1,US: ABC 7 (KOAT) New Mexico HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07daE4eaL0eVVyAJkKLiMz0k/ts
+#EXTINF:-1,US: ABC 28 (KAMC) Lubbock  HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cYcKLniG5Wduxdt-ed4CFN/ts
+#EXTINF:-1,US: ABC 4 (WCIV) Charleston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fG8x1pcB9x9pc4BBko2Hm9/ts
+#EXTINF:-1,US: ABC 7 (KVIA) El Paso HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dPWh41hsmqyeR1Ko-Jqw1J/ts
+#EXTINF:-1,US: ABC 4 (KITV) Honolulu HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dZAmKUtx7o1QctGYumBYVC/ts
+#EXTINF:-1,US: ABC 9 (WSYR) Syracuse HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eOZjS1Er5A1eljUdvtGrXy/ts
+#EXTINF:-1,US: ABC 20 (WCJB) Gainesville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cH4wQ4cJdUox8p0FQJkrIg/ts
+#EXTINF:-1,US: ABC 13 (KYUR) Anchorage HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ceWrBm9-hdBteTHICwgF_t/ts
+#EXTINF:-1,US: ABC 27 (WKOW) Madison HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dDBw1RnTtp3yxBH-Q0J6xq/ts
+#EXTINF:-1,US: ABC 22 (WKEF) Dayton HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fl9mXSvd9jiMLvzrlDIFMs/ts
+#EXTINF:-1,US: ABC 13 (WVEC) Hampton Roads HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fYQWXiYNZqZw9zQbiPu3iq/ts
+#EXTINF:-1,US: ABC 3 (KTBS) Shreveport HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5UY8yHniwOeJbKN2aDLGS/ts
+#EXTINF:-1,US: ABC 33 (KSPR) Missouri HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eCyrb4tV07-2SMTLRHzKrU/ts
+#EXTINF:-1,US: ABC 13 (KMTV) Omaha HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c6-PJJuEM8AeU5wBGlqSBV/ts
+#EXTINF:-1,US: ABC 20 (KOFY) San Francisco HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fXmVzj14QVXlc789h9p3VT/ts
+#EXTINF:-1,US: ABC 23 (KAEF) Eureka HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dSkVA-vXeQSEBQhP8Xf8QN/ts
+#EXTINF:-1,US: ABC 38 (WAWV) Terre Haute HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eEedNREdIRROXWAzQttRlZ/ts
+#EXTINF:-1,US ABC 16 (WNEP) Scranton HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dPXE_QJZPNl4uvOBWJ0GSQ/ts
+#EXTINF:-1,US: ABC 7 (WWSB) Sarasota HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVQ2i3zDclLAESJSMhF98t/ts
+#EXTINF:-1,US: ABC 25 (KAVU-DT2) Victoria HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07el_CaQxW3IzkiTevIkLv1h/ts
+#EXTINF:-1,US: ABC 25 (WOLO) Columbia HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cSZr8GnQi_Q4FZb-C1E0H6/ts
+#EXTINF:-1,US: ABC 3 (KATC) Lafayette HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cpROOuK1i9kM2VPkTJ-7e9/ts
+#EXTINF:-1,US: ABC 6 (KIVI) Boise City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e7TTKCnYp18cw1GKZuHYtC/ts
+#EXTINF:-1,US: ABC 57 (WBND) South Bend HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eNmERblICN3i_Z-2u1dFbl/ts
+#EXTINF:-1,US: ABC 25 (WPBF) West Palm Beach HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e07hJ0K6Z-FPKirtMebQN0/ts
+#EXTINF:-1,US: ABC 16 (WAPT) Jackson HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-3vpZ6lWix2vofx1VpNdq/ts
+#EXTINF:-1,US: ABC 12 (WCTI) New Bern HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f5psrl2F4oOaNvOCw_DlFa/ts
+#EXTINF:-1,US: ABC 5 (WOI) West Des Moine HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cEac2H6oh2W-uDpJQXe3Q3/ts
+#EXTINF:-1,US: ABC 6 (WLNE) RI and New Bedford HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVwOm0QOczvdLQzq64D19T/ts
+#EXTINF:-1,US: ABC 6 (WDAY) Fargo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f3VkCxtXyF3kEmuzK98VPR/ts
+#EXTINF:-1,US: ABC 20 (WICS) Springfield HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cyjqSKmXjLEo-7jkROytEN/ts
+#EXTINF:-1,US: ABC 7 (KATV) Little Rock HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dgjVK9kNTP547x044yLy1-/ts
+#EXTINF:-1,US: ABC 8 (KOLO) Reno HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c8--vBM-ClEmARcSu74GsB/ts
+#EXTINF:-1,US: ABC 8 (WMTW) Portland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d-pDpi3BuLwvgGsHPek-P0/ts
+#EXTINF:-1,US: ABC 5 (KECY-DT2) El Centro HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eo7SSL_Ay9oSuKHSM1985M/ts
+#EXTINF:-1,US: ABC 12 (WJRT) Flint HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fX0YIwUjN96W3c68ywG8Ds/ts
+#EXTINF:-1,US: ABC 3 (KESQ) Palm Springs HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e_lo2rNmVf6bydb19m1jaB/ts
+#EXTINF:-1,US: ABC 8 (KLKN) Lincoln HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7jzaxBywLSpP2vxQBrudC/ts
+#EXTINF:-1,US: ABC 6 (KAAL) Rochester HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cmucH4qM-XYIKiGt11DQkn/ts
+#EXTINF:-1,US: ABC 23 (KTMF) Missoula HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07emKAYsz1ET7ZVVzQqZrwS8/ts
+#EXTINF:-1,US: ABC 9 (WAOW) Wausau HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fRb0Ci0OuClLWqaKZFQs5F/ts
+#EXTINF:-1,US: ABC 9 (KGUN) Tucson HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c6uB6hrhdDDMp8MICndZPb/ts
+#EXTINF:-1,US: ABC 27 (WTXL) Tallahassee HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9Lv8LEB9ltI4Keo2ujAF-/ts
+#EXTINF:-1,US: ABC 13 (WSET) Lynchburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e-YwnNqCosE1rzr6PV6kKH/ts
+#EXTINF:-1,US: ABC 34 (WIVT) Binghamton HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drRNIJ_k9WmJXdpoxNHREy/ts
+#EXTINF:-1,US: ABC 6 (KRGV) Weslaco HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cMO_9Ef_iiuo8oLrVvMERi/ts
+#EXTINF:-1,US: ABC 24 (WJET) Erie HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eR6bsYc6MT7OUJwhg7BnZL/ts
+#EXTINF:-1,US: ABC 12 (KTXS) Abilene HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cyJVKJX9T2tnWPoEumFEV4/ts
+#EXTINF:-1,US: ABC 13 (KRDO) Colorado Springs HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dTTO_KTrnOUKArzHEiQckX/ts
+#EXTINF:-1,US: ABC 2 (KMID) Midland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fQRBSQoRnOdQ9fRyc6UauT/ts
+#EXTINF:-1,US: ABC 18 (WQOW) Eau Claire HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fxEVNcXiR_MFwajD2h5_45/ts
+#EXTINF:-1,US: ABC 19 (WXOW) Eau Claire HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fL1FYeF7tsLwzNCksI5ehB/ts
+#EXTINF:-1,US: ABC 31 (KLAX) Alexandria HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d6pua3a6rUW8nRuFKZeN8n/ts
+#EXTINF:-1,US: ABC 3 (KEYT) Santa Barbara HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eY8kvqqm7IoQ4Q0veYyMpW/ts
+#EXTINF:-1,US: ABC 8 (KSBW-DT2) Salinas HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c85Mqt_RG0zWznLVtoVSQh/ts
+#EXTINF:-1,US: ABC 8 (KGNS-DT2) Laredo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cF2pO0PT_hzWOW0lX3fLje/ts
+#EXTINF:-1,US: ABC 3 (KOTA) Rapid City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d9cVGbKPLq5JKPpzc7jkew/ts
+#EXTINF:-1,US: ABC 7 (KEVN) Rapid City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f099QVn4Pl9MLzzRcFhmYz/ts
+#EXTINF:-1,US: ABC 9 (WCPO) Cincinnati HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dolo4FlPrLWnIeZO-SXJvq/ts
+#EXTINF:-1,US: ABC 13 (WTVG) Toledo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fGApf5rWZ5QZ2Lz_SdXmtQ/ts
+#EXTINF:-1,US: ABC 33 (WYTV) Youngstown HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07caJghrgPTH07eCh7hVle5B/ts
+#EXTINF:-1,US: ABC 25 (WEEK-DT2) Peoria HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ddaLE9sMXMO9JwVuttvIl5/ts
+#EXTINF:-1,US: ABC 7 (KETV) Omaha HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fi2Awnqqs7EBzlefi-vLP_/ts
+#EXTINF:-1,US: ABC 49 (KTKA) Topeka HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f9KMh2q_ccXOxu6iWtTsXT/ts
+#EXTINF:-1,US: ABC 10 (KAKE) Wichita HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dlffqWqn4sZVEv6eqkLSL8/ts
+#EXTINF:-1,US: ABC 23 (WATM) Johnstown HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07etqNlS_24liA_7Jy7Wa0gO/ts
+#EXTINF:-1,US: ABC 7 (KHQA) Quincy HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f7GB4Z5-ZrMbf-DtyUTQT9/ts
+#EXTINF:-1,US: ABC 12 (KTXE-LD) San Angelo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fAFxLDsx7fVNFUKCiqf67Z/ts
+#EXTINF:-1,US: ABC 32 (WNCF) Montgomery HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbFVQ0ioe2Rwf3_FeONJUj/ts
+#EXTINF:-1,US: ABC 9 (WTVM) Columbus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eQbRkt0g35Mno7Wxiz5DAI/ts
+#EXTINF:-1,US: ABC 35 (WOHL-CD) Lima HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fkqaocv3fInHdNO8RdxXVZ/ts
+#EXTINF:-1,US: ABC 4 (KXLY) Spokane HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dUD8BzNFUBKlvkiXez6NaJ/ts
+#EXTINF:-1,US: ABC 16 (WGXA-DT) Macon HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e6QN4ffKJzxfeksOy0dn9r/ts
+#EXTINF:-1,US: ABC 17 (KBMY) Minot HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dJUJxcXaboEdRUbQP__XlI/ts
+#EXTINF:-1,US: ABC 7 (KVII) Amarillo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dx1zykgmDcdz5uWQ-yzVFf/ts
+#EXTINF:-1,US: ABC 7 (KLTV) Longview HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePaPQnnJU_u6gZi2b4BVYw/ts
+#EXTINF:-1,US: ABC 35 (WPBY-LD) Lafayette HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fpjJYz-wq885QuzDbjTYAO/ts
+#EXTINF:-1,US: ABC 33/40 (WBMA-LD) Birmingham HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fLbyjFIsHcvZ9Uy2v6xjm4/ts
+#EXTINF:-1,US: ABC 9 (KCAU) Sioux City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cwGnp7GDygjl7LYuOrs4gV/ts
+#EXTINF:-1,US: ABC 10 (WALB-DT2) Albany HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fdvdVshm9jx9iW0TLltxeh/ts
+#EXTINF:-1,US: ABC 9 (WTVC) Chattanooga HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHbkhvkI_QDZm3meI8AMm-/ts
+#EXTINF:-1,US: ABC 7 (WBBJ) Jackson HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj70owck4DhcxBthrAI0wo/ts
+#EXTINF:-1,US: ABC 12 (KBMT) Port Arthur HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f_cjxEOpXsIj-UonjG7wER/ts
+#EXTINF:-1,US: ABC 13 (WLOX) Gulfport HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d1dWU5aD45vafNV42MW2qi/ts
+#EXTINF:-1,US: ABC 9 (KEZI) Eugene HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cmfCl4-oV2hVqW3Q_oFBhm/ts
+#EXTINF:-1,US: ABC 22 (WJCL) Savannah HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dABm3Plj53583Xk67guHFD/ts
+#EXTINF:-1,US: ABC 15 (WPDE) Florence HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNlhTTfFy3qIn5YzU9WkVp/ts
+#EXTINF:-1,US: ABC 13 (WHSV) Harrisonburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e7SH3LO379MO1XYI-UKNAM/ts
+#EXTINF:-1,US: ABC 10 (WDIO) Duluth HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ccuSBb0zSzB5Ee1FViILHy/ts
+#EXTINF:-1,US: ABC 9 (KOHD-DT) Bend HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07divagxnxsMKNItDi8ONxpW/ts
+#EXTINF:-1,US: ABC 18 (KWYB) Butte HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07earvnAWlo4bzfKoq_TaKhB/ts
+#EXTINF:-1,US: ABC 25 (WEHT) Evansville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ePsEPpoyYSdo8VrcbVIFsq/ts
+#EXTINF:-1,US: ABC 6 (KSVI) Billings HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d3DSdGZ4rw6eL_JjDpJRlC/ts
+#EXTINF:-1,US: ABC 12 (KDRV) Medford HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dpcn8bCj4-OY3Lu38-pMGu/ts
+#EXTINF:-1,US: ABC 23 (KERO) Bakersfield HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cqmd-ZAQYNyVjbEik8-k71/ts
+#EXTINF:-1,US: ABC 53 (WLAJ) Lansing HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eZBJ8V193KcpWrEpv-8gd-/ts
+#EXTINF:-1,US: ABC 11 (WTOK) Meridian HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9nfNhn2zDMEj6C4Fwuzbr/ts
+#EXTINF:-1,US: ABC 5 (KFBB) Great Falls HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eO06F6HnO6-CVURULt98Rs/ts
+#EXTINF:-1,US: ABC 17 (WTVO) Rockford HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fCXJCdZg1UTpAd7HIGcv2z/ts
+#EXTINF:-1,US: ABC 13 (KSFY) Sioux Falls HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d3uuVcchVwRyBhFdA1vgAc/ts
+#EXTINF:-1,US: ABC 8 (KJCT) Grand Junction HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fs8HnjCpJNSWhc_tPwVO4v/ts
+#EXTINF:-1,US: ABC 22 (WVNY) Burlington HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fz_ARAi9Nyay1r2zr2Jjqi/ts
+#EXTINF:-1,US: ABC 26 (WGNO) New Orleans HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dxpAQBC7AQxjiDrqaxgNlc/ts
+#EXTINF:-1,US: ABC 20 (WUTR) Utica HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e4a_fl0-eAvRbuzzqyH2Ng/ts
+#EXTINF:-1,US: ABC 6 (KSAW-LD) Twin Falls HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cHaU-fyvHSR_1LPPAKg-br/ts
+#EXTINF:-1,US: ABC 13 (WBKO) Bowling Green HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVDb25nE_5FvgUFBpin9jd/ts
+#EXTINF:-1,US: ABC 18 (WDHN) Dothan HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drBHrVh4l7DPXfJK9nvCd6/ts
+#EXTINF:-1,US: ABC 13 (WMBB) Panama City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cfaVfj-tHrFBbSxkVc3MMC/ts
+#EXTINF:-1,US: ABC 12 (KODE) Joplin HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d8v8ZOmz8F-IEIzDYOJqOE/ts
+#EXTINF:-1,US: ABC 3 (KIII) Corpus Christi HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07flRx1Z2n8EUzu2hu0mOZFC/ts
+#EXTINF:-1,US: ABC 16 (WVAW-LD) Charlottesville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eHV1jjqomdBN31Gh8hGFsN/ts
+#EXTINF:-1,US: ABC 13 (WHAM) Rochester HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fKFzYZ1rsfk8utVBUC7Ivl/ts
+#EXTINF:-1,US: ABC 7 (KSWO) Wichita Falls HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eFAetmcJp8fYoXwlOSkvJ_/ts
+#EXTINF:-1,US: ABC 42 (KVEW) Kennewick HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e8ugR12MfF50Tjx_7TmQz_/ts
+#EXTINF:-1,US: ABC 4 (WOTV) Battle Creek HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d2uRAKt3SAWhFhK6_j6Y4J/ts
+
+
+﻿#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTINF: -1 tvg-name="Gratis"  group-title="HTB Campur",
+#EXTINF:-1,US: ACC Network HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fLH69ybU_BWpMYfEO4y03x/ts
+#EXTINF:-1,US: ACC Network Extra HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cjoJTeoJe19dX9lNs-hBC6/ts
+#EXTINF:-1,US: AccuWeather HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZIV_3xR0HZAAK167vwzz1/ts
+#EXTINF:-1,US: ActionMAX (East) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cDPin82-ugs6jOkU-Wh_DJ/ts
+#EXTINF:-1,US: ActionMAX (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ftev3U5zo5QJHFW15sMoup/ts
+#EXTINF:-1,US: Adult Swim (East) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c_U36SL0a3yjdM9mokhxIE/ts
+#EXTINF:-1,US: Adult Swim (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07czK6VfXbAFK7vV0kwkzmMI/ts
+#EXTINF:-1,US: Adult Swim Live HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cECtbExPo4Y6D42Lhmb2oe/ts
+#EXTINF:-1,US: AHC - American Heroes HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c3Ms3mSoHA14_3u8eHaII5/ts
+#EXTINF:-1,US: Altitude Sports HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cwDHhtqiHkQu47ArnICFNK/ts
+#EXTINF:-1,US: Altitude Sports Alternate HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fpZP4QsMs9pJhEjWVNNuU2/ts
+#EXTINF:-1,US: AMC HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f6Fv_tLjzY_vrmgOZYCK1B/ts
+#EXTINF:-1,US: AMC (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dSjB1tlGuMW6iVg8hf6ezy/ts
+#EXTINF:-1,US: AMG TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cTTrdVsHp6b0e-3M3pukYb/ts
+#EXTINF:-1,US: Animal Planet HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eLwtfwopo75UzVlzUpYAD6/ts
+#EXTINF:-1,US: Animal Planet (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07elzMUr0Z0mIAq3kgWiw1zj/ts
+#EXTINF:-1,US: Aspire HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dQehnlKJU7VqIHjtb5hYqJ/ts
+#EXTINF:-1,US: Antenna TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dALk1-cpaTu5W6G3dT7xqy/ts
+#EXTINF:-1,US: AT&T Sportsnet Pittsburgh HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e20UIuTCS5M6UCacA3sApA/ts
+#EXTINF:-1,US: AT&T Sportsnet Rocky Mountain HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dlE8W9W7NDJcbhKxPOylY1/ts
+#EXTINF:-1,US: AT&T SportsNet Rocky Mountain (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f5odHc63guVs8qE10ziVUy/ts
+#EXTINF:-1,US: AT&T Sportsnet Rocky Mountain Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e4bdwm4KTyi6CdSK0DlVv0/ts
+#EXTINF:-1,US: AT&T Sportsnet Southwest HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f4TNoojKGnUzx-eMbvLFIL/ts
+#EXTINF:-1,US: AT&T Sportsnet Southwest HD (Alternate)
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efIQU6am1l0s7WUt7RV2Rh/ts
+#EXTINF:-1,US: Atlanta Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cnTUMrmDvpF79WQBfK82gM/ts
+#EXTINF:-1,US: AXS TV HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dij5byLe-iX8VJP2rQ7c_l/ts
+#EXTINF:-1,US: AWE HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fx3BfR58ivy7WhlEAR8YWP/ts
+#EXTINF:-1,US: Baby TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fuz7shAwGUXMAY2Y8r31zI/ts
+#EXTINF:-1,US: Baby First HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cttpNzMakr69hqaaD3AWkU/ts
+#EXTINF:-1,US: Bally Sports Arizona HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZgCU__c4f91EjhErI6u_n/ts
+#EXTINF:-1,US: Bally Sports Arizona Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dYrRkvRhnSBC-f1pvt6Z6m/ts
+#EXTINF:-1,US: Bally Sports Arizona Plus 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fZ1HB5SY2G6Ykh4H689CIO/ts
+#EXTINF:-1,US: Bally Sports Detroit HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ckuK9O3vO9Cerz1T4f6bjX/ts
+#EXTINF:-1,US: Bally Sports Detroit Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cRiSDGo2R47VMVa_WMntzM/ts
+#EXTINF:-1,US: Bally Sports Florida HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fz6L1F3d8UqMC5hs2h50k5/ts
+#EXTINF:-1,US: Bally Sports Florida Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07clL51d1qN-CPuCDO9TASXg/ts
+#EXTINF:-1,US: Bally Sports Great Lakes HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eGhc1z8ht_gNPns9GnVFa4/ts
+#EXTINF:-1,US: Bally Sports Indiana HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ct1_PjdXALnxTc98XKoT8n/ts
+#EXTINF:-1,US: Bally Sports Indiana Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07clvqi7yZ2LoJeinXuA14V7/ts
+#EXTINF:-1,US: Bally Sports Kansas City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cO18pqQE0QjxDwvGdyLrXi/ts
+#EXTINF:-1,US: Bally Sports Kansas City Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXy1U7nGYBAbRUcDgX7VUK/ts
+#EXTINF:-1,US: Bally Sports Midwest HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fSKzj8PFn1fLrK371EjXHj/ts
+#EXTINF:-1,US: Bally Sports Midwest Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e9MZDKfMHzAibYSzAjyq2_/ts
+#EXTINF:-1,US: Bally Sports Netbase HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eFBHjPl_AISvGRgoPAaStm/ts
+#EXTINF:-1,US: Bally Sports New Orleans HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dMW69Ad-3t_zG3A7CK3ehn/ts
+#EXTINF:-1,US: Bally Sports New Orleans Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eyC9dX-FhBqQUYqi38U3Hw/ts
+#EXTINF:-1,US: Bally Sports North HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fAKcSXPzHcwU7eNP5AR55E/ts
+#EXTINF:-1,US: Bally Sports Ohio HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dXmCGoT9DxvrqFJ8gslIHH/ts
+#EXTINF:-1,US: Bally Sports Ohio Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07diSCXtGiSgg-Qa-dgXZUGJ/ts
+#EXTINF:-1,US: Bally Sports Oklahoma HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTE3CPfBb_NBLKHwQFKBr-/ts
+#EXTINF:-1,US: Bally Sports Oklahoma Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d5sZz7jxtCiSldBqQ8VMos/ts
+#EXTINF:-1,US: Bally Sports San Diego HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fN5t0H5ywm_VEj76oXvOik/ts
+#EXTINF:-1,US: Bally Sports San Diego Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fPLloxOh2_hsgSP8UaPxKo/ts
+#EXTINF:-1,US: Bally Sports SoCal HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efD2qkJBsWPBEL9vjv4psW/ts
+#EXTINF:-1,US: Bally Sports Socal Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dQSUguSN-ZpM82srq-r-gc/ts
+#EXTINF:-1,US: Bally Sports South HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cIEEltC_sPlC_juLsNvOsp/ts
+#EXTINF:-1,US: Bally Sports South Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eaHGIiNRzVH_q-GqrNX9oq/ts
+#EXTINF:-1,US: Bally Sports SouthEast HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eeiSQ-unzTc3nierPBuWzV/ts
+#EXTINF:-1,US: Bally Sports SouthEast Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eicjrFCZCfAx2CGmju5Iqb/ts
+#EXTINF:-1,US: Bally Sports SouthWest HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dbykvpjFaqesJiDtCEuN4Y/ts
+#EXTINF:-1,US: Bally Sports SouthWest Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d93lAuyg6qL5nlbpwwyuWB/ts
+#EXTINF:-1,US: Bally Sports Sun HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f341bewN02xHKsm_sRMKmT/ts
+#EXTINF:-1,US: Bally Sports Sun (Alt) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cvHxSkSKCw312xVkyJ3OLH/ts
+#EXTINF:-1,US: Bally Sports Sun (ALT2) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e97-OrCm1r-tm2OS9z3wkE/ts
+#EXTINF:-1,US: Bally Sports Sun Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eCsqj8JAwAuX7V_hPeB14i/ts
+#EXTINF:-1,US: Bally Sports West HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07emZ_EZRxS0pnVFwaWEMSnM/ts
+#EXTINF:-1,US: Bally Sports West Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c6GjSauSdoexsmm0EvHy5P/ts
+#EXTINF:-1,US: Bally Sports Wisconsin HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cWvXiCON2av4VwHaXxPRCi/ts
+#EXTINF:-1,US: Bally Sports Wisconsin Plus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d91Th6_b9EppmTo1VXpLaU/ts
+#EXTINF:-1,US: BBC America HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fANismX5a6sE5khzhJq3tR/ts
+#EXTINF:-1,US: BBC World News HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cwJqcxqqWbed0PyidduIVA/ts
+#EXTINF:-1,US: Beach TV (Panama City) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e39bOytnnQby0-cHxF42yi/ts
+#EXTINF:-1,US: Beach TV (Florida - Alabama) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fubwcmUkRF4c1adCwEkGu9/ts
+#EXTINF:-1,US: Beach TV (Key West - Florida Keys) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eOL9PCYsCoTeMIXW3swh6A/ts
+#EXTINF:-1,US: Beach TV (Myrtle Beach - Grand Strand) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e8Z52SgQL55GHAcN7wPohV/ts
+#EXTINF:-1,US: Bek Sports HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07etA8K7CKyOxB_44U5rgJNR/ts
+#EXTINF:-1,US: Bek Sports (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cLJO-HOZnQZs7w6s1vfuC0/ts
+#EXTINF:-1,US: Bein Sports HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fSIqZtVbauf_1nKA97IRso/ts
+#EXTINF:-1,US: Bein Sports Español HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cFQodmlpEeaYQiNv1Kluaz/ts
+#EXTINF:-1,US: Bein Sports LaLiga HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fJVOJtNWWhwPyMZ3llmX0F/ts
+#EXTINF:-1,US: Bein Sports 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c83iFsASKSP4NxIYC87h7z/ts
+#EXTINF:-1,US: Bein Sports 5 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fYT0jKSj7mNj3m13V6wSHi/ts
+#EXTINF:-1,US: Bein Sports 6 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dtDL2JP4geJWkbJlzyRoyP/ts
+#EXTINF:-1,US: Bein Sports 7 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dDFWc-6Uo5J7nab2QZnsiL/ts
+#EXTINF:-1,US: Bein Sports 8 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fRUgP97hFi_-C2BIFIC7Cx/ts
+#EXTINF:-1,US: Bein Sports Xtra HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dVJhLzGbai14brCcyS2VEa/ts
+#EXTINF:-1,US: BET (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ccX6yPJbaRYVyDMZtslfnz/ts
+#EXTINF:-1,US: BET HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07feIdxR7gmPvzOXg9R7YuhJ/ts
+#EXTINF:-1,US: BET Jams
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c0BDrsOVhbVXuV3fPYVgii/ts
+#EXTINF:-1,US: BET Her HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ekiJDtdVBlB8aRcpBwehba/ts
+#EXTINF:-1,US: BET Soul
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fTunDD83Rs54r40ZvlSe1V/ts
+#EXTINF:-1,US: Big Ten Network (BTN) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f1Yu1Kdw5zDPb_hOBlXLB-/ts
+#EXTINF:-1,US: Big Ten (ALT) Alternate HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e8_6peVE_ranqufOxJYq9t/ts
+#EXTINF:-1,US: Big Ten Network Overflow 2 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fjtjjpqJ-GzEy3Vl3yC1an/ts
+#EXTINF:-1,US: Big Ten Network Overflow 3 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cdKmpkv65mlsVtvWhQzDE4/ts
+#EXTINF:-1,US: Big Ten Network Overflow 4 HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cjKeR5t16_up9fGzXYq6so/ts
+#EXTINF:-1,US: Black News Channel HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ejsndSTdSBwQ4Bony4V6v_/ts
+#EXTINF:-1,US: Bloomberg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cEM7Kq0u5LAA727ZkZOp7m/ts
+#EXTINF:-1,US: Bounce TV
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNWmEJxNjYrRw3nIrX7rZL/ts
+#EXTINF:-1,US: Boomerang HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dxZTqkhYkdSZwaTPslJvTp/ts
+#EXTINF:-1,US: Bravo (East) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dh7Ah8biGAsE6fjdHT-Kgy/ts
+#EXTINF:-1,US: Bravo (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dNyhjLCoYSdLPtwD5ygPEc/ts
+#EXTINF:-1,US: Buzzr HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fpKBaINCD55ItfbLyUdPPn/ts
+#EXTINF:-1,US: Cartoon Network (East) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e5BRiaKz1qjSTTD5vz6GUQ/ts
+#EXTINF:-1,US: Cartoon Network (West) HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cjhMte60u-jT26wWRvHp80/ts
+#EXTINF:-1,US: CBN News International
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cn3Y4ttPZB52oGY8ddwVgF/ts
+#EXTINF:-1,US: CBSN HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07chjDLtp31EyQqAWS8DdVhB/ts
+#EXTINF:-1,US: CBSN Bay Area HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fCH4dEtGN7yhe-2E5yGof3/ts
+#EXTINF:-1,US: CBSN Boston HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dWIzbUbqDeAnPYjFmNQyI4/ts
+#EXTINF:-1,US: CBSN Chicago HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fzHc9r-QUzDWnFkvN8-svy/ts
+#EXTINF:-1,US: CBSN Dallas HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dwFIKNrRGp4Ydhag-31Lbh/ts
+#EXTINF:-1,US: CBSN Denver HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c3hjJlQiqoz0U-JGQpWQia/ts
+#EXTINF:-1,US: CBSN Los Angeles HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07caaLPb3DkLFjQD-P3g-gDE/ts
+#EXTINF:-1,US: CBSN Minnesota HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eF7clmVlpnX70FLVUgkubD/ts
+#EXTINF:-1,US: CBSN New York HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07efa5Y-bkCUSRgGpRbdbE7T/ts
+#EXTINF:-1,US: CBSN Philly HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ek8kdryWksKDJ5jSuvntrh/ts
+#EXTINF:-1,US: CBSN Pittsburgh HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dMab_t_GuneuJQR6xG9cip/ts
+#EXTINF:-1,US: CBS 27 (WKBN) Youngstown HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cj4wI2pxVEWt2RfXKd77Jh/ts
+#EXTINF:-1,US: CBS 29 (KIMA) Yakima HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07emXkjsQR3CGhlGpA0_j18K/ts
+#EXTINF:-1,US: CBS 3 (WWAY-DT2) Wilmington HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07c0g-Vs-ILpmFrgYPwWdg8X/ts
+#EXTINF:-1,US: CBS 22 (WYOU) Scranton HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cAC50LzOdXELVrNf5Gz053/ts
+#EXTINF:-1,US: CBS 12 (WPEC) West Palm Beach HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cOsuhGDJwsoeWtHh0iSao-/ts
+#EXTINF:-1,US: CBS 11 (WJHL) Johnson City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fx8pDHDHoA_biDS_nTsDGD/ts
+#EXTINF:-1,US: CBS 9 (WWTV) Cadillac HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07czPulMZMVfQe1k266xzwIH/ts
+#EXTINF:-1,US: CBS 5 (WTVH) Syracuse HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dYQY0sjs8wWF2OCWjpigRg/ts
+#EXTINF:-1,US: CBS 10 (KOLR) Springfield HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d3w5ezDBaM60hVSgU4OU2H/ts
+#EXTINF:-1,US: CBS 3 (WCIA) Champaign HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dzuVXBxcEmUg6xvjti8M-9/ts
+#EXTINF:-1,US: CBS 11 (KELO) Sioux falls HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dJZyLAStvIMVsmOe2HNDea/ts
+#EXTINF:-1,US: CBS 2 (KUTV) Salt Lake City HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVhgi024PkUuKE7fSCppHy/ts
+#EXTINF:-1,US: CBS 2 (KTVN) Reno HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e4ikAZb96KTffNeUKUWBeg/ts
+#EXTINF:-1,US: CBS 17 (WNCN) Goldsboro HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ehTT4BIPJcoMmsSR5Zcpab/ts
+#EXTINF:-1,US: CBS 12 (WPRI) Providence HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fRrRsgfqRLQ0FSdml8t-8n/ts
+#EXTINF:-1,US: CBS 6 (KOIN) Portland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cFiI7mkxWXBUsXdhfDqKYO/ts
+#EXTINF:-1,US: CBS 13 (WGME) Portland HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eMI6MKUgQQOFhoD540J98b/ts
+#EXTINF:-1,US: CBS 31 (WMBD) Peoria HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fbFRiP_2U3JW-Xt_G1YoRp/ts
+#EXTINF:-1,US: CBS 13 (WBTW) Florence HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cg6okIF2oPpG8afD51SJcF/ts
+#EXTINF:-1,US: CBS 8 (WAKA) Selma HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dmJcILu2uO_IT5MolwH_Rp/ts
+#EXTINF:-1,US: CBS 5 (WKRG) Mobile HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07d6coB2gCp4uuCtGqBrbDjD/ts
+#EXTINF:-1,US: CBS 8 (KLAS) Las Vegas HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cU07CmEiWOeZCsEnU0NYvz/ts
+#EXTINF:-1,US: CBS 6 (WLNS) Lansing HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dwjgtp29rKjomJ-sd_JgJ0/ts
+#EXTINF:-1,US: CBS 10 (KLFY) Lafayette HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fnc3-IdlvqQtPp5On4biq3/ts
+#EXTINF:-1,US: CBS 8 (WKBT) La Crosse HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ckd9zpX9Vw0vNRL8XzVHJ0/ts
+#EXTINF:-1,US: CBS 10 (WTAJ) Altoona HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fmRFP4uDOHFFPHBPXH7N7I/ts
+#EXTINF:-1,US: CBS 12 (WJTV) Jackson HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dE98wuoPY4TjTPDorMLCcN/ts
+#EXTINF:-1,US: CBS 21 (WHP-TV) Harrisburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f3yQ_l43dqOk1T1PJFdT08/ts
+#EXTINF:-1,US: CBS 4 (KGBT) Harlingen HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07f-9ujjSJvg9aVT2haXxFB6/ts
+#EXTINF:-1,US: CBS 7 (WSPA) Spartanburg HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fVUPVx9Vugws5i9pqXoCiX/ts
+#EXTINF:-1,US: CBS 9 (WNCT) Greenville HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07drgjaXcCNl_x4o-0yLLY-N/ts
+#EXTINF:-1,US: CBS 5 (WFRV) Green Bay HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eSkyg2Lenb81XTBlNFnjfC/ts
+#EXTINF:-1,US: CBS 3 (WWMT) Kalamazoo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dYqgvaBGsXbKHDWv4sgiQr/ts
+#EXTINF:-1,US: CBS 15 (WANE) Fort Wayne HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dOX0kgfCPxOt5rpyNpvOKw/ts
+#EXTINF:-1,US: CBS 47 (KGPE) Fresno HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eUomzxasUxxjNS4bUgcvMZ/ts
+#EXTINF:-1,US: CBS 13 (KVAL) Eugene HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cPxpVYXzN6xcQeRmaPm9D5/ts
+#EXTINF:-1,US: CBS 4 (KDBC) El Paso HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07e8uMAXnpnd7HYb7UWf1FY_/ts
+#EXTINF:-1,US: CBS 4 (WHBF) Rock Island HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dTHSB-HBFIyVTWMWpK8TTu/ts
+#EXTINF:-1,US: CBS 10 (KZTV) Corpus Christi  HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07dINvbkV4mogr43AYhWfKha/ts
+#EXTINF:-1,US: CBS 4 (WCBI) Columbus HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07fuvNh_KsSjnyvaYj_V-i5_/ts
+#EXTINF:-1,US: CBS 12 (WKRC) Cincinnati HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eWjrKbs0f6TVRwn0SWWPC5/ts
+#EXTINF:-1,US: CBS 13 (WOWK) Huntington HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cZrnbWNsyLL1ziNQZtzyth/ts
+#EXTINF:-1,US: CBS 2 (KGAN) Cedar Rapids HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cSKMv6FHpgxTVSGv84Cpch/ts
+#EXTINF:-1,US: CBS 4 (WIVB) Buffalo HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07ddRSQAIQ6hNKnLAwF_Iqub/ts
+#EXTINF:-1,US: CBS 2 (KBOI) Boise HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cQrml9SQ2y7mbehogcK00q/ts
+#EXTINF:-1,US: CBS 42 (WIAT) Birmingham HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cc5kv6kc8Q9aQHduQTcexG/ts
+#EXTINF:-1,US: CBS 29 (KBAK) Bakersfield HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07eVydhCYRV0SKaTYjJDDL3L/ts
+#EXTINF:-1,US: CBS 42 (KEYE) Austin HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07elneGvXtj5mYI2Ihi4aEOL/ts
+#EXTINF:-1,US: CBS 13 (KRQE) Albuquerque HD
+http://neczbm.to:80/play/5w0Bd7IWdkDrBkd9KmBMpOfOP_5WGUDanf1pCssW07cisNPVG3Fd0JjYspGiQHyM/ts
+#EXTINF:-1,US: CBS 6 (WRGB) Schenectady HD
+
+
+#EXTINF:-1 tvg-id="101" group-title="HTB-MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="102" group-title="HTB-MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+
+
+#EXTINF:-1 group-title="HTB-MALAYSIA",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-id="103" group-title="HTB-MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
+
+
+#EXTINF:-1 tvg-id="106" group-title="HTB-MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/tv6.png",TV6
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="107" group-title="HTB-MALAYSIA" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+
+
+#EXTINF:-1 tvg-id="108" group-title="HTB-MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+
+
+#EXTINF:-1 tvg-id="109" group-title="HTB-MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+
+
+#EXTINF:-1 tvg-id="CHN" group-title="HTB-MALAYSIA" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+#EXTVLCOPT:http-referrer=https://dailymotion.com
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+
+#EXTINF:-1 tvg-id="110" group-title="HTB-MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="114" tvg-name="TV Alhijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" group-title="HTB-MALAYSIA",TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="123" group-title="HTB-MALAYSIA" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+
+#EXTINF:-1 tvg-id="111" group-title="HTB-MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gallery/ceU4rq0.png",Aziz HTB YouTube Channel
+https://archive.org/download/MurotalMR/055.mp3
+
+
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_wild_us.png",Nat Geo Wild
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="HTB | KNOWLEDGE" tvg-logo="https://i.ibb.co/5nfhTLs/cgtn-documentary.jpg",CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5_monde_asie.png",TV5 Monde Asie
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_6.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/bloomberg-TV-Asia.jpg",Bloomberg HD
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblfnHv_IDyyH0Ae7HRCr4CsVhB3Kt0Ei0Tg&usqp=CAU",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2095627144.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png",Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://i.imgur.com/mJZHoUj.png",Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png",Nature
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=1e26d24e-0585-11eb-82fe-0242ac110002&deviceId=5be1c3f9851dd5632e2c91b2&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://i.imgur.com/uNKEoa4.png",NAU-TV - Northern Arizona University
+http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",Animals+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceVersion=DNT&appVersion=DNT&deviceDNT=1&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+
+#EXTINF:-1 group-title="HTB-KNOWLEDGE",Discovery Science HD
+https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+#EXTINF:-1 group-title="HTB KNOWLEDGE",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KNOWLEDGE",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+#EXTINF:-1 group-title="HTB-KIDS",EBS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/3xd7pLyQ/Minimini-HD.png",minimini
+http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/VLxwmncr/cute.png",Cute Zone (Bumblebee)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/90RWBj9z/LETOON.png",Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.imgur.com/9Bun2IX.png",Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/q7xz5n7n/circle-190x190.png",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/pd758jst/shemaroo.png",Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/J7ZDhXYq/color-Logo-PNG.png",After School Cartoons
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/Cx47Z1JZ/Pw.png",pocket.watch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/RZVNGDSs/color-Logo-PNG.png",Little Baby Bum
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/W4S7H24J/ins.png",Inspector Gadget
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d765786aad587cf4d0e2bf6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/KzHDmJBG/sabr.png",Sabrina Teenage Witch
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/T15q1gJr/anim.png",Anime All Day
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/QdHzT8pm/sb.png",SpongeBob
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/vHJQTNn4/blue.png",Blue's Clues
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b564ff59d130007363823/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/FH0hLVbD/bubble.png",Bubble Guppies
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/656gBLqD/barney.png",Barney
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/4N8My7hn/barbar.png",Babar
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/wjQK3p7W/kan.png",Pluto TV Kids Animation
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/tJYv50RH/tween.png",Pluto TV Tween
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="HTB-KIDS" tvg-logo="https://i.postimg.cc/KjD7BJBy/junior.png",Pluto TV Junior
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_big.png?v=2.0.0.13" group-title="HTB-LOKAL",MUI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tv9_big.png?v=2.0.0.13" group-title="HTB-LOKAL",TV9 NU
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",UChannel
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",AlQuran Kareem
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_big.png" group-title="HTB-LOKAL",Tawaf TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ef0d3930a7b6c95bd2b32ed45989c61fdfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL", MQTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=37693cfc748049e45d87b8c7d8b9aacddfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",MTATV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",Muhammadiyah TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=34173cb38f07f89ddbebc2ac9128303fdfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",Rodja TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_big.png?v=2.0.0.13" group-title="HTB-LOKAL",nhk world Japan _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",Prambors _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_big.png?v=1" group-title="HTB-LOKAL",SEA Today _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",Metro TV _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_big.png" group-title="HTB-LOKAL",IDX _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" group-title="HTB-LOKAL",DW (English) _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" group-title="HTB-LOKAL",France 24 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png?coday" group-title="HTB-LOKAL",TRT World _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",Euronews _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=7f39f8317fbdb1988ef4c628eba02591dfdded94c48ea6229c48edefa9ec1c9f
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",CGTN Documentary _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_big.png" group-title="HTB-LOKAL",Arirang _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
+
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13" group-title="HTB-LOKAL",CCTV4 _USEETV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
